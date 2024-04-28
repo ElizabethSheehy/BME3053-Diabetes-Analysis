@@ -1,0 +1,3146 @@
+SVI Theme: Housing Type & Transportation; Overall Housing Type & Transportation (Percentile); NaturalBreaks
+Data downloaded on 20-April-2024
+County_FIPS,County,State,Diagnosed Diabetes-2018-Percentage,Overall Housing Type & Transportation-2018-Percentile
+56039,Teton County,Wyoming,3.8,0.6266
+53055,San Juan County,Washington,4.5,0.2343
+49043,Summit County,Utah,4.8,0.1235
+27045,Fillmore County,Minnesota,5,0.4161
+30031,Gallatin County,Montana,5,0.4486
+06057,Nevada County,California,5.1,0.2076
+16013,Blaine County,Idaho,5.1,0.2518
+08037,Eagle County,Colorado,5.2,0.326
+08039,Elbert County,Colorado,5.3,0.0035
+08069,Larimer County,Colorado,5.3,0.355
+56019,Johnson County,Wyoming,5.3,0.4142
+08067,La Plata County,Colorado,5.4,0.6829
+41003,Benton County,Oregon,5.4,0.8886
+53031,Jefferson County,Washington,5.4,0.3607
+08013,Boulder County,Colorado,5.5,0.5673
+08035,Douglas County,Colorado,5.5,0.0376
+19081,Hancock County,Iowa,5.5,0.1162
+26047,Emmet County,Michigan,5.5,0.2993
+51107,Loudoun County,Virginia,5.5,0.0853
+55025,Dane County,Wisconsin,5.5,0.6546
+08007,Archuleta County,Colorado,5.6,0.3413
+08049,Grand County,Colorado,5.6,0.4104
+08117,Summit County,Colorado,5.6,0.3684
+51059,Fairfax County,Virginia,5.6,0.3254
+06087,Santa Cruz County,California,5.7,0.9035
+08045,Garfield County,Colorado,5.7,0.5915
+08059,Jefferson County,Colorado,5.7,0.1987
+08119,Teller County,Colorado,5.7,0.0751
+19191,Winneshiek County,Iowa,5.7,0.1767
+27121,Pope County,Minnesota,5.7,0.1324
+34019,Hunterdon County,New Jersey,5.7,0.141
+30009,Carbon County,Montana,5.8,0.022
+35049,Santa Fe County,New Mexico,5.8,0.6552
+06041,Marin County,California,5.9,0.6985
+08093,Park County,Colorado,5.9,0.0016
+08097,Pitkin County,Colorado,5.9,0.2607
+08107,Routt County,Colorado,5.9,0.4546
+13143,Haralson County,Georgia,5.9,0.2859
+26055,Grand Traverse County,Michigan,5.9,0.5415
+49051,Wasatch County,Utah,5.9,0.1646
+51510,Alexandria City,Virginia,5.9,0.7192
+06061,Placer County,California,6,0.1974
+08015,Chaffee County,Colorado,6,0.4881
+08051,Gunnison County,Colorado,6,0.5326
+20105,Lincoln County,Kansas,6,0.1146
+30057,Madison County,Montana,6,0.3954
+31031,Cherry County,Nebraska,6,0.2929
+38043,Kidder County,North Dakota,6,0.0831
+44001,Bristol County,Rhode Island,6,0.391
+51023,Botetourt County,Virginia,6,0.0497
+08014,Broomfield County,Colorado,6.1,0.1458
+19129,Mills County,Iowa,6.1,0.1789
+20157,Republic County,Kansas,6.1,0.2092
+20165,Rush County,Kansas,6.1,0.0258
+23013,Knox County,Maine,6.1,0.4677
+27005,Becker County,Minnesota,6.1,0.439
+29173,Ralls County,Missouri,6.1,0.0436
+30029,Flathead County,Montana,6.1,0.3098
+30067,Park County,Montana,6.1,0.2557
+31027,Cedar County,Nebraska,6.1,0.0156
+31029,Chase County,Nebraska,6.1,0.0901
+33009,Grafton County,New Hampshire,6.1,0.6855
+35028,Los Alamos County,New Mexico,6.1,0.057
+35055,Taos County,New Mexico,6.1,0.6606
+55063,La Crosse County,Wisconsin,6.1,0.6628
+02261,Valdez-Cordova Census Area,Alaska,6.2,0.8513
+09005,Litchfield County,Connecticut,6.2,0.1573
+20131,Nemaha County,Kansas,6.2,0.2041
+25015,Hampshire County,Massachusetts,6.2,0.687
+27131,Rice County,Minnesota,6.2,0.8723
+30063,Missoula County,Montana,6.2,0.6714
+31039,Cuming County,Nebraska,6.2,0.0933
+31057,Dundy County,Nebraska,6.2,0.0509
+31135,Perkins County,Nebraska,6.2,0.0439
+35027,Lincoln County,New Mexico,6.2,0.3301
+38095,Towner County,North Dakota,6.2,0.1716
+50023,Washington County,Vermont,6.2,0.5721
+50025,Windham County,Vermont,6.2,0.6788
+55007,Bayfield County,Wisconsin,6.2,0.0732
+55089,Ozaukee County,Wisconsin,6.2,0.1117
+02110,Juneau City and Borough,Alaska,6.3,0.9322
+08027,Custer County,Colorado,6.3,0.0449
+08031,Denver County,Colorado,6.3,0.8717
+08103,Rio Blanco County,Colorado,6.3,0.6549
+17043,Dupage County,Illinois,6.3,0.3079
+19003,Adams County,Iowa,6.3,0.085
+19027,Carroll County,Iowa,6.3,0.1181
+25017,Middlesex County,Massachusetts,6.3,0.8195
+30065,Musselshell County,Montana,6.3,0.3066
+32005,Douglas County,Nevada,6.3,0.1452
+34027,Morris County,New Jersey,6.3,0.2881
+38007,Billings County,North Dakota,6.3,0.1675
+38069,Pierce County,North Dakota,6.3,0.4091
+45013,Beaufort County,South Carolina,6.3,0.6059
+46055,Haakon County,South Dakota,6.3,0.4476
+49005,Cache County,Utah,6.3,0.4686
+51013,Arlington County,Virginia,6.3,0.7765
+55073,Marathon County,Wisconsin,6.3,0.2722
+55127,Walworth County,Wisconsin,6.3,0.4285
+06017,El Dorado County,California,6.4,0.2209
+09001,Fairfield County,Connecticut,6.4,0.7061
+19049,Dallas County,Iowa,6.4,0.1595
+19101,Jefferson County,Iowa,6.4,0.689
+19141,O&#39;brien County,Iowa,6.4,0.5355
+20183,Smith County,Kansas,6.4,0.0223
+21097,Harrison County,Kentucky,6.4,0.5575
+26009,Antrim County,Michigan,6.4,0.0739
+27075,Lake County,Minnesota,6.4,0.3095
+30075,Powder River County,Montana,6.4,0.12
+31165,Sioux County,Nebraska,6.4,0.0325
+34035,Somerset County,New Jersey,6.4,0.1777
+38023,Divide County,North Dakota,6.4,0.1391
+38045,Lamoure County,North Dakota,6.4,0.0213
+49055,Wayne County,Utah,6.4,0.233
+50007,Chittenden County,Vermont,6.4,0.7918
+55055,Jefferson County,Wisconsin,6.4,0.4311
+55093,Pierce County,Wisconsin,6.4,0.4661
+55141,Wood County,Wisconsin,6.4,0.1948
+05015,Carroll County,Arkansas,6.5,0.524
+08047,Gilpin County,Colorado,6.5,0.15
+08113,San Miguel County,Colorado,6.5,0.2677
+09007,Middlesex County,Connecticut,6.5,0.3483
+12115,Sarasota County,Florida,6.5,0.4269
+17057,Fulton County,Illinois,6.5,0.5126
+19035,Cherokee County,Iowa,6.5,0.3075
+19071,Fremont County,Iowa,6.5,0.0821
+19093,Ida County,Iowa,6.5,0.1649
+19151,Pocahontas County,Iowa,6.5,0.077
+21039,Carlisle County,Kentucky,6.5,0.178
+25019,Nantucket County,Massachusetts,6.5,0.0716
+26093,Livingston County,Michigan,6.5,0.0516
+27047,Freeborn County,Minnesota,6.5,0.3343
+29039,Cedar County,Missouri,6.5,0.2018
+29141,Morgan County,Missouri,6.5,0.5463
+30011,Carter County,Montana,6.5,0.2165
+30055,Mccone County,Montana,6.5,0.155
+31063,Frontier County,Nebraska,6.5,0.2222
+31075,Grant County,Nebraska,6.5,0.1363
+36079,Putnam County,New York,6.5,0.1773
+36109,Tompkins County,New York,6.5,0.957
+37125,Moore County,North Carolina,6.5,0.3372
+46021,Campbell County,South Dakota,6.5,0.028
+46051,Grant County,South Dakota,6.5,0.0672
+46091,Marshall County,South Dakota,6.5,0.1433
+47091,Johnson County,Tennessee,6.5,0.6237
+51610,Falls Church City,Virginia,6.5,0.3464
+55017,Chippewa County,Wisconsin,6.5,0.4537
+55075,Marinette County,Wisconsin,6.5,0.4202
+55135,Waupaca County,Wisconsin,6.5,0.3352
+56029,Park County,Wyoming,6.5,0.1684
+02230,Skagway Municipality,Alaska,6.6,0.8115
+06001,Alameda County,California,6.6,0.916
+06075,San Francisco County,California,6.6,0.9497
+06093,Siskiyou County,California,6.6,0.6676
+08041,El Paso County,Colorado,6.6,0.5782
+12087,Monroe County,Florida,6.6,0.9777
+16081,Teton County,Idaho,6.6,0.1452
+17047,Edwards County,Illinois,6.6,0.1878
+18139,Rush County,Indiana,6.6,0.0799
+19015,Boone County,Iowa,6.6,0.3598
+20187,Stanton County,Kansas,6.6,0.1286
+26007,Alpena County,Michigan,6.6,0.3222
+26107,Mecosta County,Michigan,6.6,0.9258
+27053,Hennepin County,Minnesota,6.6,0.822
+29139,Montgomery County,Missouri,6.6,0.3973
+29203,Shannon County,Missouri,6.6,0.2888
+30043,Jefferson County,Montana,6.6,0.1328
+30107,Wheatland County,Montana,6.6,0.3359
+31117,Mcpherson County,Nebraska,6.6,0.0643
+35003,Catron County,New Mexico,6.6,0.1732
+36061,New York County,New York,6.6,0.9736
+37129,New Hanover County,North Carolina,6.6,0.6205
+38089,Stark County,North Dakota,6.6,0.7635
+40059,Harper County,Oklahoma,6.6,0.0961
+41023,Grant County,Oregon,6.6,0.6463
+46063,Harding County,South Dakota,6.6,0.3025
+46081,Lawrence County,South Dakota,6.6,0.8625
+46117,Stanley County,South Dakota,6.6,0.241
+48023,Baylor County,Texas,6.6,0.0293
+48493,Wilson County,Texas,6.6,0.3875
+49017,Garfield County,Utah,6.6,0.3696
+50001,Addison County,Vermont,6.6,0.3295
+51017,Bath County,Virginia,6.6,0.3009
+53037,Kittitas County,Washington,6.6,0.5148
+54017,Doddridge County,West Virginia,6.6,0.4177
+55043,Grant County,Wisconsin,6.6,0.6619
+56033,Sheridan County,Wyoming,6.6,0.3664
+06109,Tuolumne County,California,6.7,0.6692
+08061,Kiowa County,Colorado,6.7,0.2085
+08079,Mineral County,Colorado,6.7,0.0216
+08091,Ouray County,Colorado,6.7,0.0255
+13219,Oconee County,Georgia,6.7,0.0096
+16033,Clark County,Idaho,6.7,0.5224
+17015,Carroll County,Illinois,6.7,0.1334
+17017,Cass County,Illinois,6.7,0.5272
+17037,Dekalb County,Illinois,6.7,0.6848
+17053,Ford County,Illinois,6.7,0.1585
+17135,Montgomery County,Illinois,6.7,0.5689
+18001,Adams County,Indiana,6.7,0.8134
+19107,Keokuk County,Iowa,6.7,0.0111
+20071,Greeley County,Kansas,6.7,0.4855
+21023,Bracken County,Kentucky,6.7,0.4884
+21167,Mercer County,Kentucky,6.7,0.1369
+21201,Robertson County,Kentucky,6.7,0.2744
+25011,Franklin County,Massachusetts,6.7,0.3706
+26087,Lapeer County,Michigan,6.7,0.2999
+29035,Carter County,Missouri,6.7,0.468
+29061,Daviess County,Missouri,6.7,0.6533
+29085,Hickory County,Missouri,6.7,0.1235
+29129,Mercer County,Missouri,6.7,0.4374
+29161,Phelps County,Missouri,6.7,0.8265
+30001,Beaverhead County,Montana,6.7,0.5094
+30059,Meagher County,Montana,6.7,0.0124
+31045,Dawes County,Nebraska,6.7,0.5441
+31101,Keith County,Nebraska,6.7,0.2932
+32027,Pershing County,Nevada,6.7,0.9984
+37043,Clay County,North Carolina,6.7,0.2044
+38027,Eddy County,North Dakota,6.7,0.2576
+38087,Slope County,North Dakota,6.7,0.0045
+41027,Hood River County,Oregon,6.7,0.9169
+42013,Blair County,Pennsylvania,6.7,0.6189
+42123,Warren County,Pennsylvania,6.7,0.2853
+46105,Perkins County,South Dakota,6.7,0.3954
+48069,Castro County,Texas,6.7,0.6415
+48171,Gillespie County,Texas,6.7,0.461
+48275,Knox County,Texas,6.7,0.198
+48329,Midland County,Texas,6.7,0.5559
+48393,Roberts County,Texas,6.7,0.0022
+48459,Upshur County,Texas,6.7,0.4021
+48463,Uvalde County,Texas,6.7,0.8364
+48507,Zavala County,Texas,6.7,0.9331
+51063,Floyd County,Virginia,6.7,0.0503
+51133,Northumberland County,Virginia,6.7,0.021
+55091,Pepin County,Wisconsin,6.7,0.1554
+55097,Portage County,Wisconsin,6.7,0.5788
+56011,Crook County,Wyoming,6.7,0.1668
+56027,Niobrara County,Wyoming,6.7,0.4833
+02068,Denali Borough,Alaska,6.8,0.5536
+05013,Calhoun County,Arkansas,6.8,0.3747
+06051,Mono County,California,6.8,0.29
+06083,Santa Barbara County,California,6.8,0.9156
+08019,Clear Creek County,Colorado,6.8,0.1404
+08065,Lake County,Colorado,6.8,0.6351
+08073,Lincoln County,Colorado,6.8,0.5836
+08085,Montrose County,Colorado,6.8,0.6437
+08115,Sedgwick County,Colorado,6.8,0.6164
+08125,Yuma County,Colorado,6.8,0.5285
+12109,St. Johns County,Florida,6.8,0.1124
+13113,Fayette County,Georgia,6.8,0.0181
+16017,Bonner County,Idaho,6.8,0.3512
+17059,Gallatin County,Illinois,6.8,0.1608
+17061,Greene County,Illinois,6.8,0.1223
+17065,Hamilton County,Illinois,6.8,0.1114
+17067,Hancock County,Illinois,6.8,0.0949
+17069,Hardin County,Illinois,6.8,0.4553
+17079,Jasper County,Illinois,6.8,0.163
+17103,Lee County,Illinois,6.8,0.5266
+17131,Mercer County,Illinois,6.8,0.1175
+17157,Randolph County,Illinois,6.8,0.5635
+17203,Woodford County,Illinois,6.8,0.0936
+18037,Dubois County,Indiana,6.8,0.3047
+19009,Audubon County,Iowa,6.8,0.0159
+19079,Hamilton County,Iowa,6.8,0.1321
+19159,Ringgold County,Iowa,6.8,0.142
+21213,Simpson County,Kentucky,6.8,0.0758
+24027,Howard County,Maryland,6.8,0.1745
+26083,Keweenaw County,Michigan,6.8,0.0347
+27051,Grant County,Minnesota,6.8,0.121
+27141,Sherburne County,Minnesota,6.8,0.2426
+29089,Howard County,Missouri,6.8,0.4101
+29131,Miller County,Missouri,6.8,0.4893
+30007,Broadwater County,Montana,6.8,0.0232
+30037,Golden Valley County,Montana,6.8,0.0054
+30101,Toole County,Montana,6.8,0.8526
+31005,Arthur County,Nebraska,6.8,0.0013
+31091,Hooker County,Nebraska,6.8,0.1557
+31143,Polk County,Nebraska,6.8,0.2464
+31159,Seward County,Nebraska,6.8,0.2394
+37115,Madison County,North Carolina,6.8,0.5161
+41055,Sherman County,Oregon,6.8,0.0923
+42091,Montgomery County,Pennsylvania,6.8,0.404
+44005,Newport County,Rhode Island,6.8,0.4874
+44009,Washington County,Rhode Island,6.8,0.2687
+46061,Hanson County,South Dakota,6.8,0
+46097,Miner County,South Dakota,6.8,0.092
+47067,Hancock County,Tennessee,6.8,0.61
+48011,Armstrong County,Texas,6.8,0.2735
+48017,Bailey County,Texas,6.8,0.5769
+48045,Briscoe County,Texas,6.8,0.0614
+48087,Collingsworth County,Texas,6.8,0.5947
+48091,Comal County,Texas,6.8,0.3324
+48097,Cooke County,Texas,6.8,0.5925
+48105,Crockett County,Texas,6.8,0.3855
+48117,Deaf Smith County,Texas,6.8,0.6062
+48131,Duval County,Texas,6.8,0.8978
+48199,Hardin County,Texas,6.8,0.277
+48267,Kimble County,Texas,6.8,0.148
+48269,King County,Texas,6.8,0.0118
+48283,La Salle County,Texas,6.8,0.8867
+48289,Leon County,Texas,6.8,0.2655
+48333,Mills County,Texas,6.8,0.4164
+48379,Rains County,Texas,6.8,0.2964
+48383,Reagan County,Texas,6.8,0.0659
+48385,Real County,Texas,6.8,0.4387
+48411,San Saba County,Texas,6.8,0.6721
+48435,Sutton County,Texas,6.8,0.3117
+48461,Upton County,Texas,6.8,0.411
+48465,Val Verde County,Texas,6.8,0.9373
+48505,Zapata County,Texas,6.8,0.6966
+55037,Florence County,Wisconsin,6.8,0.2935
+55047,Green Lake County,Wisconsin,6.8,0.4273
+55051,Iron County,Wisconsin,6.8,0.5256
+55099,Price County,Wisconsin,6.8,0.354
+55129,Washburn County,Wisconsin,6.8,0.0751
+56035,Sublette County,Wyoming,6.8,0.015
+04005,Coconino County,Arizona,6.9,0.9713
+06063,Plumas County,California,6.9,0.2388
+06091,Sierra County,California,6.9,0.0882
+06105,Trinity County,California,6.9,0.6307
+08029,Delta County,Colorado,6.9,0.6466
+08033,Dolores County,Colorado,6.9,0.0446
+08053,Hinsdale County,Colorado,6.9,0.0395
+08063,Kit Carson County,Colorado,6.9,0.4015
+08095,Phillips County,Colorado,6.9,0.3499
+12085,Martin County,Florida,6.9,0.6912
+13023,Bleckley County,Georgia,6.9,0.6125
+16001,Ada County,Idaho,6.9,0.2429
+17007,Boone County,Illinois,6.9,0.2203
+17013,Calhoun County,Illinois,6.9,0.2378
+17155,Putnam County,Illinois,6.9,0.0038
+17165,Saline County,Illinois,6.9,0.7934
+17169,Schuyler County,Illinois,6.9,0.2257
+17185,Wabash County,Illinois,6.9,0.3209
+17189,Washington County,Illinois,6.9,0.1716
+18013,Brown County,Indiana,6.9,0.1044
+19061,Dubuque County,Iowa,6.9,0.5352
+19077,Guthrie County,Iowa,6.9,0.0557
+19089,Howard County,Iowa,6.9,0.2066
+19121,Madison County,Iowa,6.9,0.0248
+19149,Plymouth County,Iowa,6.9,0.0911
+20151,Pratt County,Kansas,6.9,0.7087
+20179,Sheridan County,Kansas,6.9,0.0153
+20199,Wallace County,Kansas,6.9,0.0169
+23005,Cumberland County,Maine,6.9,0.5925
+23023,Sagadahoc County,Maine,6.9,0.1541
+25001,Barnstable County,Massachusetts,6.9,0.0942
+26135,Oscoda County,Michigan,6.9,0.4976
+27019,Carver County,Minnesota,6.9,0.0809
+27035,Crow Wing County,Minnesota,6.9,0.2528
+27049,Goodhue County,Minnesota,6.9,0.432
+27067,Kandiyohi County,Minnesota,6.9,0.5119
+27101,Murray County,Minnesota,6.9,0.1168
+27117,Pipestone County,Minnesota,6.9,0.5823
+27145,Stearns County,Minnesota,6.9,0.7806
+29003,Andrew County,Missouri,6.9,0.0423
+29059,Dallas County,Missouri,6.9,0.5444
+29171,Putnam County,Missouri,6.9,0.2537
+30069,Petroleum County,Montana,6.9,0.0363
+30079,Prairie County,Montana,6.9,0.0322
+30081,Ravalli County,Montana,6.9,0.1098
+30091,Sheridan County,Montana,6.9,0.34
+30099,Teton County,Montana,6.9,0.7383
+31021,Burt County,Nebraska,6.9,0.276
+31129,Nuckolls County,Nebraska,6.9,0.1598
+32009,Esmeralda County,Nevada,6.9,0.937
+35021,Harding County,New Mexico,6.9,0.1837
+37005,Alleghany County,North Carolina,6.9,0.1121
+37021,Buncombe County,North Carolina,6.9,0.8838
+37135,Orange County,North Carolina,6.9,0.8367
+38019,Cavalier County,North Dakota,6.9,0.0366
+39077,Huron County,Ohio,6.9,0.3165
+39137,Putnam County,Ohio,6.9,0.0108
+40045,Ellis County,Oklahoma,6.9,0.0455
+41017,Deschutes County,Oregon,6.9,0.2152
+41057,Tillamook County,Oregon,6.9,0.8612
+41069,Wheeler County,Oregon,6.9,0.1726
+42023,Cameron County,Pennsylvania,6.9,0.475
+42029,Chester County,Pennsylvania,6.9,0.3387
+42103,Pike County,Pennsylvania,6.9,0.0048
+46005,Beadle County,South Dakota,6.9,0.6555
+46037,Day County,South Dakota,6.9,0.0984
+46059,Hand County,South Dakota,6.9,0.1665
+46075,Jones County,South Dakota,6.9,0.0131
+47021,Cheatham County,Tennessee,6.9,0.2225
+47083,Houston County,Tennessee,6.9,0.368
+48019,Bandera County,Texas,6.9,0.3448
+48035,Bosque County,Texas,6.9,0.3852
+48043,Brewster County,Texas,6.9,0.745
+48047,Brooks County,Texas,6.9,0.9914
+48053,Burnet County,Texas,6.9,0.4479
+48065,Carson County,Texas,6.9,0.0083
+48093,Comanche County,Texas,6.9,0.5848
+48115,Dawson County,Texas,6.9,0.8752
+48127,Dimmit County,Texas,6.9,0.9316
+48133,Eastland County,Texas,6.9,0.8322
+48147,Fannin County,Texas,6.9,0.7281
+48165,Gaines County,Texas,6.9,0.4171
+48173,Glasscock County,Texas,6.9,0.0774
+48189,Hale County,Texas,6.9,0.8628
+48193,Hamilton County,Texas,6.9,0.5049
+48205,Hartley County,Texas,6.9,0.8927
+48229,Hudspeth County,Texas,6.9,0.794
+48235,Irion County,Texas,6.9,0.0694
+48261,Kenedy County,Texas,6.9,0.2162
+48271,Kinney County,Texas,6.9,0.6246
+48273,Kleberg County,Texas,6.9,0.9879
+48293,Limestone County,Texas,6.9,0.9099
+48295,Lipscomb County,Texas,6.9,0.0965
+48297,Live Oak County,Texas,6.9,0.6784
+48305,Lynn County,Texas,6.9,0.4288
+48317,Martin County,Texas,6.9,0.2219
+48353,Nolan County,Texas,6.9,0.8848
+48397,Rockwall County,Texas,6.9,0.1105
+48399,Runnels County,Texas,6.9,0.1089
+48413,Schleicher County,Texas,6.9,0.249
+48417,Shackelford County,Texas,6.9,0.3559
+48425,Somervell County,Texas,6.9,0.6371
+48443,Terrell County,Texas,6.9,0.0229
+48447,Throckmorton County,Texas,6.9,0.0337
+48449,Titus County,Texas,6.9,0.596
+48483,Wheeler County,Texas,6.9,0.2194
+48495,Winkler County,Texas,6.9,0.3668
+48499,Wood County,Texas,6.9,0.4454
+49031,Piute County,Utah,6.9,0.0245
+51840,Winchester City,Virginia,6.9,0.836
+53065,Stevens County,Washington,6.9,0.3168
+55015,Calumet County,Wisconsin,6.9,0.0388
+55019,Clark County,Wisconsin,6.9,0.7705
+55109,St. Croix County,Wisconsin,6.9,0.0567
+55117,Sheboygan County,Wisconsin,6.9,0.5476
+02150,Kodiak Island Borough,Alaska,7,0.9535
+06021,Glenn County,California,7,0.4871
+08055,Huerfano County,Colorado,7,0.6864
+08087,Morgan County,Colorado,7,0.681
+08111,San Juan County,Colorado,7,0.4645
+12021,Collier County,Florida,7,0.609
+13125,Glascock County,Georgia,7,0.8628
+13201,Miller County,Georgia,7,0.8819
+13291,Union County,Georgia,7,0.3005
+16041,Franklin County,Idaho,7,0.0583
+16043,Fremont County,Idaho,7,0.3983
+16053,Jerome County,Idaho,7,0.2588
+16057,Latah County,Idaho,7,0.8179
+16085,Valley County,Idaho,7,0.2448
+17087,Johnson County,Illinois,7,0.5762
+17107,Logan County,Illinois,7,0.4228
+18101,Martin County,Indiana,7,0.2178
+18115,Ohio County,Indiana,7,0.1207
+18161,Union County,Indiana,7,0.1869
+19041,Clay County,Iowa,7,0.4358
+19047,Crawford County,Iowa,7,0.8583
+19167,Sioux County,Iowa,7,0.4922
+20081,Haskell County,Kansas,7,0.2467
+20091,Johnson County,Kansas,7,0.0783
+20153,Rawlins County,Kansas,7,0.0621
+20175,Seward County,Kansas,7,0.8771
+21079,Garrard County,Kentucky,7,0.148
+23009,Hancock County,Maine,7,0.5403
+25007,Dukes County,Massachusetts,7,0.008
+25021,Norfolk County,Massachusetts,7,0.6603
+27109,Olmsted County,Minnesota,7,0.5871
+27133,Rock County,Minnesota,7,0.2954
+27171,Wright County,Minnesota,7,0.1509
+29057,Dade County,Missouri,7,0.4327
+29125,Maries County,Missouri,7,0.4129
+29186,Ste. Genevieve County,Missouri,7,0.0974
+29209,Stone County,Missouri,7,0.4438
+30061,Mineral County,Montana,7,0.4008
+31009,Blaine County,Nebraska,7,0.1261
+31015,Boyd County,Nebraska,7,0.0847
+31113,Logan County,Nebraska,7,0.1009
+32031,Washoe County,Nevada,7,0.772
+35023,Hidalgo County,New Mexico,7,0.7876
+36077,Otsego County,New York,7,0.8153
+37011,Avery County,North Carolina,7,0.8071
+37109,Lincoln County,North Carolina,7,0.1939
+37189,Watauga County,North Carolina,7,0.822
+38011,Bowman County,North Dakota,7,0.4753
+38033,Golden Valley County,North Dakota,7,0.3785
+38049,Mchenry County,North Dakota,7,0.0379
+38055,Mclean County,North Dakota,7,0.2295
+38065,Oliver County,North Dakota,7,0.1178
+40057,Harmon County,Oklahoma,7,0.3553
+42067,Juniata County,Pennsylvania,7,0.5326
+42093,Montour County,Pennsylvania,7,0.7778
+42113,Sullivan County,Pennsylvania,7,0.3779
+42119,Union County,Pennsylvania,7,0.8535
+46053,Gregory County,South Dakota,7,0.2553
+46069,Hyde County,South Dakota,7,0.1659
+46119,Sully County,South Dakota,7,0.0573
+47101,Lewis County,Tennessee,7,0.6208
+47137,Pickett County,Tennessee,7,0.377
+47187,Williamson County,Tennessee,7,0.0462
+48007,Aransas County,Texas,7,0.8169
+48081,Coke County,Texas,7,0.4072
+48083,Coleman County,Texas,7,0.1063
+48085,Collin County,Texas,7,0.1713
+48101,Cottle County,Texas,7,0.2111
+48121,Denton County,Texas,7,0.3114
+48123,Dewitt County,Texas,7,0.7685
+48125,Dickens County,Texas,7,0.7373
+48137,Edwards County,Texas,7,0.1812
+48155,Foard County,Texas,7,0.1051
+48163,Frio County,Texas,7,0.9885
+48195,Hansford County,Texas,7,0.199
+48207,Haskell County,Texas,7,0.8048
+48211,Hemphill County,Texas,7,0.5912
+48219,Hockley County,Texas,7,0.8485
+48233,Hutchinson County,Texas,7,0.2022
+48263,Kent County,Texas,7,0.2818
+48279,Lamb County,Texas,7,0.5705
+48299,Llano County,Texas,7,0.3623
+48303,Lubbock County,Texas,7,0.8555
+48319,Mason County,Texas,7,0.0191
+48323,Maverick County,Texas,7,0.6157
+48327,Menard County,Texas,7,0.5174
+48389,Reeves County,Texas,7,0.9112
+48391,Refugio County,Texas,7,0.5508
+48415,Scurry County,Texas,7,0.71
+48421,Sherman County,Texas,7,0.2108
+48431,Sterling County,Texas,7,0.3578
+48433,Stonewall County,Texas,7,0.3629
+48437,Swisher County,Texas,7,0.7211
+48475,Ward County,Texas,7,0.6116
+50019,Orleans County,Vermont,7,0.5263
+51075,Goochland County,Virginia,7,0.1493
+51091,Highland County,Virginia,7,0.056
+51735,Poquoson City,Virginia,7,0.0051
+53057,Skagit County,Washington,7,0.6234
+55041,Forest County,Wisconsin,7,0.4062
+55069,Lincoln County,Wisconsin,7,0.3082
+55071,Manitowoc County,Wisconsin,7,0.2432
+55085,Oneida County,Wisconsin,7,0.0681
+56015,Goshen County,Wyoming,7,0.2738
+05049,Fulton County,Arkansas,7.1,0.4642
+06011,Colusa County,California,7.1,0.4228
+06027,Inyo County,California,7.1,0.8902
+08005,Arapahoe County,Colorado,7.1,0.3613
+08077,Mesa County,Colorado,7.1,0.5969
+08081,Moffat County,Colorado,7.1,0.7329
+12086,Miami-Dade County,Florida,7.1,0.8988
+13109,Evans County,Georgia,7.1,0.886
+13253,Seminole County,Georgia,7.1,0.7791
+13319,Wilkinson County,Georgia,7.1,0.532
+16007,Bear Lake County,Idaho,7.1,0.1226
+16077,Power County,Idaho,7.1,0.22
+17009,Brown County,Illinois,7.1,0.9185
+17045,Edgar County,Illinois,7.1,0.2649
+17083,Jersey County,Illinois,7.1,0.2639
+17125,Mason County,Illinois,7.1,0.1047
+17129,Menard County,Illinois,7.1,0.0519
+17141,Ogle County,Illinois,7.1,0.1936
+19039,Clarke County,Iowa,7.1,0.5762
+19131,Mitchell County,Iowa,7.1,0.0917
+20201,Washington County,Kansas,7.1,0.0735
+21017,Bourbon County,Kentucky,7.1,0.1738
+21027,Breckinridge County,Kentucky,7.1,0.7498
+21103,Henry County,Kentucky,7.1,0.2391
+21123,Larue County,Kentucky,7.1,0.1515
+21139,Livingston County,Kentucky,7.1,0.2079
+21181,Nicholas County,Kentucky,7.1,0.8459
+21239,Woodford County,Kentucky,7.1,0.0637
+24041,Talbot County,Maryland,7.1,0.0414
+26131,Ontonagon County,Michigan,7.1,0.1952
+27037,Dakota County,Minnesota,7.1,0.1496
+27055,Houston County,Minnesota,7.1,0.0872
+27071,Koochiching County,Minnesota,7.1,0.5135
+29065,Dent County,Missouri,7.1,0.4123
+29217,Vernon County,Missouri,7.1,0.617
+29227,Worth County,Missouri,7.1,0.1862
+30025,Fallon County,Montana,7.1,0.1471
+30071,Phillips County,Montana,7.1,0.2945
+31037,Colfax County,Nebraska,7.1,0.3139
+31069,Garden County,Nebraska,7.1,0.0287
+31073,Gosper County,Nebraska,7.1,0.0315
+31147,Richardson County,Nebraska,7.1,0.029
+31175,Valley County,Nebraska,7.1,0.1859
+34025,Monmouth County,New Jersey,7.1,0.3126
+35019,Guadalupe County,New Mexico,7.1,0.8895
+37075,Graham County,North Carolina,7.1,0.3321
+38013,Burke County,North Dakota,7.1,0.0707
+38093,Stutsman County,North Dakota,7.1,0.8134
+39075,Holmes County,Ohio,7.1,0.7994
+39149,Shelby County,Ohio,7.1,0.1866
+40127,Pushmataha County,Oklahoma,7.1,0.6218
+46101,Moody County,South Dakota,7.1,0.3155
+46115,Spink County,South Dakota,7.1,0.2767
+47085,Humphreys County,Tennessee,7.1,0.1843
+47127,Moore County,Tennessee,7.1,0.107
+47161,Stewart County,Tennessee,7.1,0.1445
+48033,Borden County,Texas,7.1,0.0073
+48079,Cochran County,Texas,7.1,0.3598
+48095,Concho County,Texas,7.1,0.4957
+48107,Crosby County,Texas,7.1,0.3502
+48119,Delta County,Texas,7.1,0.2942
+48129,Donley County,Texas,7.1,0.5186
+48151,Fisher County,Texas,7.1,0.0592
+48153,Floyd County,Texas,7.1,0.2833
+48159,Franklin County,Texas,7.1,0.1964
+48169,Garza County,Texas,7.1,0.6781
+48177,Gonzales County,Texas,7.1,0.8762
+48191,Hall County,Texas,7.1,0.3833
+48243,Jeff Davis County,Texas,7.1,0.1522
+48247,Jim Hogg County,Texas,7.1,0.4919
+48249,Jim Wells County,Texas,7.1,0.6746
+48255,Karnes County,Texas,7.1,0.9392
+48311,Mcmullen County,Texas,7.1,0.3091
+48321,Matagorda County,Texas,7.1,0.7666
+48357,Ochiltree County,Texas,7.1,0.391
+48359,Oldham County,Texas,7.1,0.5215
+48369,Parmer County,Texas,7.1,0.5062
+48403,Sabine County,Texas,7.1,0.2139
+48489,Willacy County,Texas,7.1,0.8386
+48501,Yoakum County,Texas,7.1,0.3034
+49019,Grand County,Utah,7.1,0.7561
+51570,Colonial Heights City,Virginia,7.1,0.1802
+53017,Douglas County,Washington,7.1,0.5845
+53029,Island County,Washington,7.1,0.2442
+55013,Burnett County,Wisconsin,7.1,0.0458
+55033,Dunn County,Wisconsin,7.1,0.6536
+55057,Juneau County,Wisconsin,7.1,0.6441
+55125,Vilas County,Wisconsin,7.1,0.0283
+04025,Yavapai County,Arizona,7.2,0.5791
+06009,Calaveras County,California,7.2,0.063
+09013,Tolland County,Connecticut,7.2,0.3461
+13005,Bacon County,Georgia,7.2,0.8204
+13065,Clinch County,Georgia,7.2,0.9637
+13281,Towns County,Georgia,7.2,0.3639
+13283,Treutlen County,Georgia,7.2,0.9401
+16023,Butte County,Idaho,7.2,0.3365
+16037,Custer County,Idaho,7.2,0.226
+16049,Idaho County,Idaho,7.2,0.5966
+17027,Clinton County,Illinois,7.2,0.5358
+17039,De Witt County,Illinois,7.2,0.1318
+17049,Effingham County,Illinois,7.2,0.3932
+17105,Livingston County,Illinois,7.2,0.6724
+17133,Monroe County,Illinois,7.2,0.0121
+17145,Perry County,Illinois,7.2,0.7854
+17147,Piatt County,Illinois,7.2,0.0041
+17151,Pope County,Illinois,7.2,0.304
+17175,Stark County,Illinois,7.2,0.014
+17181,Union County,Illinois,7.2,0.7609
+18027,Daviess County,Indiana,7.2,0.8586
+19075,Grundy County,Iowa,7.2,0.006
+19125,Marion County,Iowa,7.2,0.589
+19187,Webster County,Iowa,7.2,0.6011
+20065,Graham County,Kansas,7.2,0.0484
+21063,Elliott County,Kentucky,7.2,0.6775
+23015,Lincoln County,Maine,7.2,0.1796
+26089,Leelanau County,Michigan,7.2,0.0242
+26153,Schoolcraft County,Michigan,7.2,0.2833
+27027,Clay County,Minnesota,7.2,0.7157
+27139,Scott County,Minnesota,7.2,0.2321
+29011,Barton County,Missouri,7.2,0.4604
+29053,Cooper County,Missouri,7.2,0.4852
+29185,St. Clair County,Missouri,7.2,0.4747
+30019,Daniels County,Montana,7.2,0.0869
+30111,Yellowstone County,Montana,7.2,0.7453
+31011,Boone County,Nebraska,7.2,0.0904
+31017,Brown County,Nebraska,7.2,0.1636
+31035,Clay County,Nebraska,7.2,0.0178
+31051,Dixon County,Nebraska,7.2,0.1904
+31071,Garfield County,Nebraska,7.2,0.086
+31099,Kearney County,Nebraska,7.2,0.1792
+31169,Thayer County,Nebraska,7.2,0.0608
+32029,Storey County,Nevada,7.2,0.0197
+36059,Nassau County,New York,7.2,0.5546
+36119,Westchester County,New York,7.2,0.9386
+37059,Davie County,North Carolina,7.2,0.3356
+37145,Person County,North Carolina,7.2,0.6224
+38039,Griggs County,North Dakota,7.2,0.135
+40129,Roger Mills County,Oklahoma,7.2,0.0548
+41021,Gilliam County,Oregon,7.2,0.32
+41037,Lake County,Oregon,7.2,0.8609
+42025,Carbon County,Pennsylvania,7.2,0.2216
+42127,Wayne County,Pennsylvania,7.2,0.2318
+46015,Brule County,South Dakota,7.2,0.8252
+46045,Edmunds County,South Dakota,7.2,0.1041
+46067,Hutchinson County,South Dakota,7.2,0.2636
+46079,Lake County,South Dakota,7.2,0.5861
+46127,Union County,South Dakota,7.2,0.0704
+47009,Blount County,Tennessee,7.2,0.3142
+47103,Lincoln County,Tennessee,7.2,0.5642
+48057,Calhoun County,Texas,7.2,0.5603
+48067,Cass County,Texas,7.2,0.6819
+48075,Childress County,Texas,7.2,0.6737
+48103,Crane County,Texas,7.2,0.4559
+48109,Culberson County,Texas,7.2,0.8844
+48111,Dallam County,Texas,7.2,0.2652
+48143,Erath County,Texas,7.2,0.9573
+48223,Hopkins County,Texas,7.2,0.4483
+48237,Jack County,Texas,7.2,0.7892
+48239,Jackson County,Texas,7.2,0.6418
+48253,Jones County,Texas,7.2,0.5712
+48301,Loving County,Texas,7.2,0.5721
+48307,Mcculloch County,Texas,7.2,0.3072
+48341,Moore County,Texas,7.2,0.4922
+48351,Newton County,Texas,7.2,0.3289
+48365,Panola County,Texas,7.2,0.6125
+48371,Pecos County,Texas,7.2,0.9691
+48457,Tyler County,Texas,7.2,0.9675
+49033,Rich County,Utah,7.2,0.1474
+49053,Washington County,Utah,7.2,0.4046
+50027,Windsor County,Vermont,7.2,0.3028
+51530,Buena Vista City,Virginia,7.2,0.298
+51720,Norton City,Virginia,7.2,0.8542
+53007,Chelan County,Washington,7.2,0.7641
+55123,Vernon County,Wisconsin,7.2,0.696
+56023,Lincoln County,Wyoming,7.2,0.093
+02100,Haines Borough,Alaska,7.3,0.482
+02105,Hoonah-Angoon Census Area,Alaska,7.3,0.7794
+02220,Sitka City and Borough,Alaska,7.3,0.9417
+06003,Alpine County,California,7.3,0.7055
+08017,Cheyenne County,Colorado,7.3,0.0624
+13025,Brantley County,Georgia,7.3,0.249
+13101,Echols County,Georgia,7.3,0.3588
+13187,Lumpkin County,Georgia,7.3,0.4358
+13293,Upson County,Georgia,7.3,0.7644
+16025,Camas County,Idaho,7.3,0.0127
+16059,Lemhi County,Idaho,7.3,0.4779
+17033,Crawford County,Illinois,7.3,0.3865
+17071,Henderson County,Illinois,7.3,0.0188
+17111,Mchenry County,Illinois,7.3,0.0408
+17123,Marshall County,Illinois,7.3,0.0274
+17139,Moultrie County,Illinois,7.3,0.7354
+17159,Richland County,Illinois,7.3,0.3454
+17171,Scott County,Illinois,7.3,0.0777
+17173,Shelby County,Illinois,7.3,0.113
+19143,Osceola County,Iowa,7.3,0.1926
+19161,Sac County,Iowa,7.3,0.0236
+19189,Winnebago County,Iowa,7.3,0.1751
+20023,Cheyenne County,Kansas,7.3,0.0134
+20045,Douglas County,Kansas,7.3,0.6991
+20077,Harper County,Kansas,7.3,0.1184
+20167,Russell County,Kansas,7.3,0.1315
+20185,Stafford County,Kansas,7.3,0.0605
+21149,Mclean County,Kentucky,7.3,0.2251
+21223,Trimble County,Kentucky,7.3,0.56
+21233,Webster County,Kentucky,7.3,0.7112
+24031,Montgomery County,Maryland,7.3,0.5804
+26001,Alcona County,Michigan,7.3,0.0551
+26051,Gladwin County,Michigan,7.3,0.4788
+27107,Norman County,Minnesota,7.3,0.6113
+27137,St. Louis County,Minnesota,7.3,0.8182
+30039,Granite County,Montana,7.3,0.1299
+30097,Sweet Grass County,Montana,7.3,0.0099
+30103,Treasure County,Montana,7.3,0.0729
+31085,Hayes County,Nebraska,7.3,0.0006
+31097,Johnson County,Nebraska,7.3,0.8287
+31105,Kimball County,Nebraska,7.3,0.2423
+31163,Sherman County,Nebraska,7.3,0.0627
+32011,Eureka County,Nevada,7.3,0.1824
+33015,Rockingham County,New Hampshire,7.3,0.114
+35011,De Baca County,New Mexico,7.3,0.2668
+35059,Union County,New Mexico,7.3,0.5014
+36021,Columbia County,New York,7.3,0.632
+37023,Burke County,North Carolina,7.3,0.7924
+37199,Yancey County,North Carolina,7.3,0.2601
+39135,Preble County,Ohio,7.3,0.0815
+41015,Curry County,Oregon,7.3,0.4776
+42007,Beaver County,Pennsylvania,7.3,0.4196
+42011,Berks County,Pennsylvania,7.3,0.623
+42019,Butler County,Pennsylvania,7.3,0.5412
+42053,Forest County,Pennsylvania,7.3,0.4897
+46073,Jerauld County,South Dakota,7.3,0.1407
+48003,Andrews County,Texas,7.3,0.4323
+48031,Blanco County,Texas,7.3,0.2069
+48063,Camp County,Texas,7.3,0.6291
+48071,Chambers County,Texas,7.3,0.3317
+48099,Coryell County,Texas,7.3,0.6734
+48285,Lavaca County,Texas,7.3,0.7424
+48337,Montague County,Texas,7.3,0.3292
+48343,Morris County,Texas,7.3,0.4015
+48407,San Jacinto County,Texas,7.3,0.269
+48471,Walker County,Texas,7.3,0.9895
+50015,Lamoille County,Vermont,7.3,0.4279
+51043,Clarke County,Virginia,7.3,0.0981
+51079,Greene County,Virginia,7.3,0.1188
+51580,Covington City,Virginia,7.3,0.4212
+51640,Galax City,Virginia,7.3,0.9188
+51660,Harrisonburg City,Virginia,7.3,0.9787
+55023,Crawford County,Wisconsin,7.3,0.7523
+55059,Kenosha County,Wisconsin,7.3,0.6135
+55065,Lafayette County,Wisconsin,7.3,0.1108
+55083,Oconto County,Wisconsin,7.3,0.078
+55133,Waukesha County,Wisconsin,7.3,0.1028
+56005,Campbell County,Wyoming,7.3,0.7007
+56009,Converse County,Wyoming,7.3,0.4155
+02158,Kusilvak Census Area,Alaska,7.4,0.6804
+06023,Humboldt County,California,7.4,0.9042
+06043,Mariposa County,California,7.4,0.5938
+06081,San Mateo County,California,7.4,0.6043
+08011,Bent County,Colorado,7.4,0.8077
+08057,Jackson County,Colorado,7.4,0.0102
+12071,Lee County,Florida,7.4,0.6103
+13027,Brooks County,Georgia,7.4,0.6097
+13117,Forsyth County,Georgia,7.4,0.0159
+13119,Franklin County,Georgia,7.4,0.688
+13123,Gilmer County,Georgia,7.4,0.2728
+13311,White County,Georgia,7.4,0.0876
+16039,Elmore County,Idaho,7.4,0.3738
+17063,Grundy County,Illinois,7.4,0.0602
+17075,Iroquois County,Illinois,7.4,0.1566
+17117,Macoupin County,Illinois,7.4,0.149
+17149,Pike County,Illinois,7.4,0.2563
+17183,Vermilion County,Illinois,7.4,0.7587
+18051,Gibson County,Indiana,7.4,0.6667
+19043,Clayton County,Iowa,7.4,0.3881
+19157,Poweshiek County,Iowa,7.4,0.3623
+20101,Lane County,Kansas,7.4,0.0025
+21185,Oldham County,Kentucky,7.4,0.1563
+21187,Owen County,Kentucky,7.4,0.3282
+21209,Scott County,Kentucky,7.4,0.5138
+22023,Cameron Parish,Louisiana,7.4,0.227
+24035,Queen Anne&#39;s County,Maryland,7.4,0.0296
+26005,Allegan County,Michigan,7.4,0.2506
+26029,Charlevoix County,Michigan,7.4,0.1687
+26111,Midland County,Michigan,7.4,0.3999
+27043,Faribault County,Minnesota,7.4,0.1894
+29019,Boone County,Missouri,7.4,0.7144
+29135,Moniteau County,Missouri,7.4,0.639
+29153,Ozark County,Missouri,7.4,0.3906
+29199,Scotland County,Missouri,7.4,0.7004
+31103,Keya Paha County,Nebraska,7.4,0.0032
+34039,Union County,New Jersey,7.4,0.7905
+35001,Bernalillo County,New Mexico,7.4,0.659
+35037,Quay County,New Mexico,7.4,0.1423
+37037,Chatham County,North Carolina,7.4,0.283
+37055,Dare County,North Carolina,7.4,0.1885
+37063,Durham County,North Carolina,7.4,0.9019
+37167,Stanly County,North Carolina,7.4,0.553
+38003,Barnes County,North Dakota,7.4,0.5798
+38051,Mcintosh County,North Dakota,7.4,0.1127
+38053,Mckenzie County,North Dakota,7.4,0.7717
+39109,Miami County,Ohio,7.4,0.0665
+40007,Beaver County,Oklahoma,7.4,0.2184
+41065,Wasco County,Oregon,7.4,0.9733
+42099,Perry County,Pennsylvania,7.4,0.1614
+46025,Clark County,South Dakota,7.4,0.157
+47049,Fentress County,Tennessee,7.4,0.4814
+47169,Trousdale County,Tennessee,7.4,0.2862
+48025,Bee County,Texas,7.4,0.972
+48051,Burleson County,Texas,7.4,0.4709
+48089,Colorado County,Texas,7.4,0.7428
+48145,Falls County,Texas,7.4,0.9987
+48149,Fayette County,Texas,7.4,0.5861
+48175,Goliad County,Texas,7.4,0.4597
+48227,Howard County,Texas,7.4,0.9557
+48335,Mitchell County,Texas,7.4,0.6543
+48345,Motley County,Texas,7.4,0.2073
+49001,Beaver County,Utah,7.4,0.1258
+51077,Grayson County,Virginia,7.4,0.5068
+51600,Fairfax City,Virginia,7.4,0.6928
+51790,Staunton City,Virginia,7.4,0.6081
+53043,Lincoln County,Washington,7.4,0.0863
+53051,Pend Oreille County,Washington,7.4,0.5683
+53073,Whatcom County,Washington,7.4,0.8781
+55045,Green County,Wisconsin,7.4,0.0764
+55107,Rusk County,Wisconsin,7.4,0.3015
+55131,Washington County,Wisconsin,7.4,0.0433
+56043,Washakie County,Wyoming,7.4,0.2751
+02185,North Slope Borough,Alaska,7.5,0.9924
+06049,Modoc County,California,7.5,0.5769
+06055,Napa County,California,7.5,0.8249
+08025,Crowley County,Colorado,7.5,0.8478
+08121,Washington County,Colorado,7.5,0.3719
+13127,Glynn County,Georgia,7.5,0.694
+16009,Benewah County,Idaho,7.5,0.5581
+16061,Lewis County,Idaho,7.5,0.3709
+17003,Alexander County,Illinois,7.5,0.8488
+17005,Bond County,Illinois,7.5,0.9265
+17011,Bureau County,Illinois,7.5,0.1273
+17097,Lake County,Illinois,7.5,0.5365
+17191,Wayne County,Illinois,7.5,0.5259
+18123,Perry County,Indiana,7.5,0.5205
+19017,Bremer County,Iowa,7.5,0.1678
+19025,Calhoun County,Iowa,7.5,0.3107
+19033,Cerro Gordo County,Iowa,7.5,0.4454
+19063,Emmet County,Iowa,7.5,0.5374
+19137,Montgomery County,Iowa,7.5,0.2916
+20007,Barber County,Kansas,7.5,0.2365
+20019,Chautauqua County,Kansas,7.5,0.7313
+20043,Doniphan County,Kansas,7.5,0.4346
+20079,Harvey County,Kansas,7.5,0.3279
+20147,Phillips County,Kansas,7.5,0.348
+20163,Rooks County,Kansas,7.5,0.0742
+21049,Clark County,Kentucky,7.5,0.4772
+26003,Alger County,Michigan,7.5,0.545
+27001,Aitkin County,Minnesota,7.5,0.4266
+27039,Dodge County,Minnesota,7.5,0.0653
+27041,Douglas County,Minnesota,7.5,0.2098
+27153,Todd County,Minnesota,7.5,0.5743
+29137,Monroe County,Missouri,7.5,0.306
+29147,Nodaway County,Missouri,7.5,0.5384
+29197,Schuyler County,Missouri,7.5,0.212
+31083,Harlan County,Nebraska,7.5,0.0662
+31145,Red Willow County,Nebraska,7.5,0.4365
+31149,Rock County,Nebraska,7.5,0.0713
+31171,Thomas County,Nebraska,7.5,0.0029
+31181,Webster County,Nebraska,7.5,0.0611
+31183,Wheeler County,Nebraska,7.5,0.0086
+34003,Bergen County,New Jersey,7.5,0.5616
+35017,Grant County,New Mexico,7.5,0.8994
+36091,Saratoga County,New York,7.5,0.2642
+36113,Warren County,New York,7.5,0.369
+37009,Ashe County,North Carolina,7.5,0.4218
+40003,Alfalfa County,Oklahoma,7.5,0.1808
+40025,Cimarron County,Oklahoma,7.5,0.0946
+40033,Cotton County,Oklahoma,7.5,0.4059
+40105,Nowata County,Oklahoma,7.5,0.2525
+41025,Harney County,Oregon,7.5,0.7103
+46033,Custer County,South Dakota,7.5,0.4489
+46043,Douglas County,South Dakota,7.5,0.405
+46093,Meade County,South Dakota,7.5,0.3766
+46107,Potter County,South Dakota,7.5,0.1611
+47015,Cannon County,Tennessee,7.5,0.3585
+47055,Giles County,Tennessee,7.5,0.5944
+47095,Lake County,Tennessee,7.5,0.9481
+48049,Brown County,Texas,7.5,0.6931
+48265,Kerr County,Texas,7.5,0.7319
+48315,Marion County,Texas,7.5,0.3515
+48377,Presidio County,Texas,7.5,0.7026
+48409,San Patricio County,Texas,7.5,0.625
+48445,Terry County,Texas,7.5,0.95
+48453,Travis County,Texas,7.5,0.7386
+48467,Van Zandt County,Texas,7.5,0.3391
+49009,Daggett County,Utah,7.5,0.5578
+49049,Utah County,Utah,7.5,0.5078
+50017,Orange County,Vermont,7.5,0.3884
+51061,Fauquier County,Virginia,7.5,0.0092
+51119,Middlesex County,Virginia,7.5,0.3037
+51127,New Kent County,Virginia,7.5,0.0306
+51145,Powhatan County,Virginia,7.5,0.0334
+51678,Lexington City,Virginia,7.5,0.6692
+51750,Radford City,Virginia,7.5,0.8236
+53019,Ferry County,Washington,7.5,0.7033
+55003,Ashland County,Wisconsin,7.5,0.7886
+55067,Langlade County,Wisconsin,7.5,0.2665
+55113,Sawyer County,Wisconsin,7.5,0.3569
+55119,Taylor County,Wisconsin,7.5,0.2063
+04019,Pima County,Arizona,7.6,0.9825
+05017,Chicot County,Arkansas,7.6,0.9863
+05021,Clay County,Arkansas,7.6,0.2935
+05063,Independence County,Arkansas,7.6,0.6326
+06013,Contra Costa County,California,7.6,0.4795
+06111,Ventura County,California,7.6,0.5508
+08009,Baca County,Colorado,7.6,0.3941
+08043,Fremont County,Colorado,7.6,0.7036
+08105,Rio Grande County,Colorado,7.6,0.9277
+13011,Banks County,Georgia,7.6,0.2474
+13137,Habersham County,Georgia,7.6,0.7163
+13249,Schley County,Georgia,7.6,0.4569
+13275,Thomas County,Georgia,7.6,0.8093
+16021,Boundary County,Idaho,7.6,0.2604
+16047,Gooding County,Idaho,7.6,0.4588
+17021,Christian County,Illinois,7.6,0.4094
+17041,Douglas County,Illinois,7.6,0.5447
+17109,Mcdonough County,Illinois,7.6,0.8953
+17193,White County,Illinois,7.6,0.5817
+18049,Fulton County,Indiana,7.6,0.1933
+19031,Cedar County,Iowa,7.6,0.0344
+19067,Floyd County,Iowa,7.6,0.3206
+19097,Jackson County,Iowa,7.6,0.164
+19103,Johnson County,Iowa,7.6,0.8593
+19197,Wright County,Iowa,7.6,0.2633
+20093,Kearny County,Kansas,7.6,0.0828
+20161,Riley County,Kansas,7.6,0.9532
+20193,Thomas County,Kansas,7.6,0.0952
+20197,Wabaunsee County,Kansas,7.6,0.0427
+20207,Woodson County,Kansas,7.6,0.0471
+21143,Lyon County,Kentucky,7.6,0.4906
+22081,Red River Parish,Louisiana,7.6,0.5712
+24013,Carroll County,Maryland,7.6,0.1831
+26043,Dickinson County,Michigan,7.6,0.3824
+26085,Lake County,Michigan,7.6,0.6877
+26095,Luce County,Michigan,7.6,0.5075
+26103,Marquette County,Michigan,7.6,0.5804
+26139,Ottawa County,Michigan,7.6,0.4877
+26151,Sanilac County,Michigan,7.6,0.3002
+26155,Shiawassee County,Michigan,7.6,0.1401
+27021,Cass County,Minnesota,7.6,0.3158
+27031,Cook County,Minnesota,7.6,0.6969
+27033,Cottonwood County,Minnesota,7.6,0.4413
+27077,Lake Of The Woods County,Minnesota,7.6,0.4706
+27103,Nicollet County,Minnesota,7.6,0.6527
+27113,Pennington County,Minnesota,7.6,0.7135
+27163,Washington County,Minnesota,7.6,0.1293
+29001,Adair County,Missouri,7.6,0.6148
+29109,Lawrence County,Missouri,7.6,0.5333
+29225,Webster County,Missouri,7.6,0.8335
+30021,Dawson County,Montana,7.6,0.5285
+30095,Stillwater County,Montana,7.6,0.0926
+31007,Banner County,Nebraska,7.6,0.001
+31049,Deuel County,Nebraska,7.6,0.0137
+31137,Phelps County,Nebraska,7.6,0.2674
+31177,Washington County,Nebraska,7.6,0.1038
+35051,Sierra County,New Mexico,7.6,0.6975
+36087,Rockland County,New York,7.6,0.9074
+37137,Pamlico County,North Carolina,7.6,0.8551
+37143,Perquimans County,North Carolina,7.6,0.2961
+38041,Hettinger County,North Dakota,7.6,0.0411
+38047,Logan County,North Dakota,7.6,0.1344
+39127,Perry County,Ohio,7.6,0.3811
+39163,Vinton County,Ohio,7.6,0.5565
+41005,Clackamas County,Oregon,7.6,0.4148
+41049,Morrow County,Oregon,7.6,0.5183
+41063,Wallowa County,Oregon,7.6,0.8096
+42111,Somerset County,Pennsylvania,7.6,0.7564
+46039,Deuel County,South Dakota,7.6,0.0748
+46049,Faulk County,South Dakota,7.6,0.1827
+48059,Callahan County,Texas,7.6,0.1035
+48135,Ector County,Texas,7.6,0.7224
+48197,Hardeman County,Texas,7.6,0.2359
+48381,Randall County,Texas,7.6,0.39
+49023,Juab County,Utah,7.6,0.1722
+49029,Morgan County,Utah,7.6,0.0003
+49035,Salt Lake County,Utah,7.6,0.4846
+50005,Caledonia County,Vermont,7.6,0.5791
+51003,Albemarle County,Virginia,7.6,0.518
+51021,Bland County,Virginia,7.6,0.7526
+51115,Mathews County,Virginia,7.6,0.0143
+51685,Manassas Park City,Virginia,7.6,0.2611
+53033,King County,Washington,7.6,0.8666
+55061,Kewaunee County,Wisconsin,7.6,0.1245
+56007,Carbon County,Wyoming,7.6,0.8198
+56045,Weston County,Wyoming,7.6,0.6581
+05083,Logan County,Arkansas,7.7,0.4763
+05117,Prairie County,Arkansas,7.7,0.695
+05127,Scott County,Arkansas,7.7,0.5731
+06035,Lassen County,California,7.7,0.7198
+06103,Tehama County,California,7.7,0.8456
+08001,Adams County,Colorado,7.7,0.5524
+08099,Prowers County,Colorado,7.7,0.7367
+12103,Pinellas County,Florida,7.7,0.8112
+13111,Fannin County,Georgia,7.7,0.1019
+13171,Lamar County,Georgia,7.7,0.3699
+13241,Rabun County,Georgia,7.7,0.462
+17025,Clay County,Illinois,7.7,0.511
+17163,St. Clair County,Illinois,7.7,0.4499
+17167,Sangamon County,Illinois,7.7,0.6361
+18147,Spencer County,Indiana,7.7,0.1073
+18151,Steuben County,Indiana,7.7,0.467
+19091,Humboldt County,Iowa,7.7,0.0825
+19139,Muscatine County,Iowa,7.7,0.3642
+19183,Washington County,Iowa,7.7,0.1907
+20025,Clark County,Kansas,7.7,0.2779
+20111,Lyon County,Kansas,7.7,0.9379
+22049,Jackson Parish,Louisiana,7.7,0.8395
+22125,West Feliciana Parish,Louisiana,7.7,0.8453
+23007,Franklin County,Maine,7.7,0.3677
+26061,Houghton County,Michigan,7.7,0.9306
+26071,Iron County,Michigan,7.7,0.3594
+26097,Mackinac County,Michigan,7.7,0.7953
+26109,Menominee County,Michigan,7.7,0.4193
+26137,Otsego County,Michigan,7.7,0.4508
+27011,Big Stone County,Minnesota,7.7,0.4804
+27119,Polk County,Minnesota,7.7,0.7303
+27173,Yellow Medicine County,Minnesota,7.7,0.3464
+29017,Bollinger County,Missouri,7.7,0.3534
+29025,Caldwell County,Missouri,7.7,0.6855
+29067,Douglas County,Missouri,7.7,0.2047
+29079,Grundy County,Missouri,7.7,0.6759
+29157,Perry County,Missouri,7.7,0.2499
+30033,Garfield County,Montana,7.7,0.1054
+30053,Lincoln County,Montana,7.7,0.1359
+31065,Furnas County,Nebraska,7.7,0.1621
+31133,Pawnee County,Nebraska,7.7,0.3212
+32015,Lander County,Nevada,7.7,0.9083
+33001,Belknap County,New Hampshire,7.7,0.2356
+33013,Merrimack County,New Hampshire,7.7,0.538
+37019,Brunswick County,North Carolina,7.7,0.3419
+37033,Caswell County,North Carolina,7.7,0.8981
+37173,Swain County,North Carolina,7.7,0.5498
+38009,Bottineau County,North Dakota,7.7,0.1363
+38015,Burleigh County,North Dakota,7.7,0.7227
+38075,Renville County,North Dakota,7.7,0.049
+38083,Sheridan County,North Dakota,7.7,0.0592
+39051,Fulton County,Ohio,7.7,0.0723
+39123,Ottawa County,Ohio,7.7,0.2662
+41035,Klamath County,Oregon,7.7,0.8561
+42049,Erie County,Pennsylvania,7.7,0.7848
+42069,Lackawanna County,Pennsylvania,7.7,0.652
+46011,Brookings County,South Dakota,7.7,0.6106
+46087,Mccook County,South Dakota,7.7,0.1882
+46089,Mcpherson County,South Dakota,7.7,0.1305
+46123,Tripp County,South Dakota,7.7,0.2706
+46135,Yankton County,South Dakota,7.7,0.6151
+47003,Bedford County,Tennessee,7.7,0.5454
+47129,Morgan County,Tennessee,7.7,0.7689
+47135,Perry County,Tennessee,7.7,0.6434
+47175,Van Buren County,Tennessee,7.7,0.525
+48013,Atascosa County,Texas,7.7,0.6192
+48161,Freestone County,Texas,7.7,0.7294
+48221,Hood County,Texas,7.7,0.3929
+48313,Madison County,Texas,7.7,0.9621
+48375,Potter County,Texas,7.7,0.985
+48395,Robertson County,Texas,7.7,0.7141
+48441,Taylor County,Texas,7.7,0.7399
+48479,Webb County,Texas,7.7,0.8497
+49025,Kane County,Utah,7.7,0.0468
+50013,Grand Isle County,Vermont,7.7,0.0067
+51036,Charles City County,Virginia,7.7,0.1079
+51045,Craig County,Virginia,7.7,0.2843
+51125,Nelson County,Virginia,7.7,0.4066
+51179,Stafford County,Virginia,7.7,0.1296
+51690,Martinsville City,Virginia,7.7,0.5597
+54073,Pleasants County,West Virginia,7.7,0.5549
+55035,Eau Claire County,Wisconsin,7.7,0.5896
+55039,Fond Du Lac County,Wisconsin,7.7,0.5419
+02180,Nome Census Area,Alaska,7.8,0.9102
+04003,Cochise County,Arizona,7.8,0.936
+06069,San Benito County,California,7.8,0.1958
+06073,San Diego County,California,7.8,0.8411
+06079,San Luis Obispo County,California,7.8,0.7832
+06097,Sonoma County,California,7.8,0.6472
+06113,Yolo County,California,7.8,0.9519
+12017,Citrus County,Florida,7.8,0.5304
+12061,Indian River County,Florida,7.8,0.3403
+13007,Baker County,Georgia,7.8,0.6068
+13083,Dade County,Georgia,7.8,0.9118
+13085,Dawson County,Georgia,7.8,0.0907
+13133,Greene County,Georgia,7.8,0.312
+13147,Hart County,Georgia,7.8,0.3897
+13161,Jeff Davis County,Georgia,7.8,0.8344
+13221,Oglethorpe County,Georgia,7.8,0.2012
+13307,Webster County,Georgia,7.8,0.2171
+16075,Payette County,Idaho,7.8,0.3196
+17077,Jackson County,Illinois,7.8,0.9366
+18015,Carroll County,Indiana,7.8,0.05
+18121,Parke County,Indiana,7.8,0.8698
+18131,Pulaski County,Indiana,7.8,0.0856
+19005,Allamakee County,Iowa,7.8,0.5333
+19111,Lee County,Iowa,7.8,0.5568
+19115,Louisa County,Iowa,7.8,0.3438
+20029,Cloud County,Kansas,7.8,0.1652
+20033,Comanche County,Kansas,7.8,0.1398
+20121,Miami County,Kansas,7.8,0.0634
+20171,Scott County,Kansas,7.8,0.4527
+21041,Carroll County,Kentucky,7.8,0.8621
+21141,Logan County,Kentucky,7.8,0.2534
+21211,Shelby County,Kentucky,7.8,0.384
+21227,Warren County,Kentucky,7.8,0.8806
+22043,Grant Parish,Louisiana,7.8,0.4849
+22113,Vermilion Parish,Louisiana,7.8,0.6224
+26059,Hillsdale County,Michigan,7.8,0.7504
+26125,Oakland County,Michigan,7.8,0.184
+27003,Anoka County,Minnesota,7.8,0.2136
+27059,Isanti County,Minnesota,7.8,0.1977
+27085,Mcleod County,Minnesota,7.8,0.1503
+29119,Mcdonald County,Missouri,7.8,0.68
+29179,Reynolds County,Missouri,7.8,0.4027
+29211,Sullivan County,Missouri,7.8,0.4944
+30049,Lewis And Clark County,Montana,7.8,0.454
+30109,Wibaux County,Montana,7.8,0.0697
+31061,Franklin County,Nebraska,7.8,0.0481
+31077,Greeley County,Nebraska,7.8,0.0175
+31089,Holt County,Nebraska,7.8,0.1086
+31095,Jefferson County,Nebraska,7.8,0.0793
+31167,Stanton County,Nebraska,7.8,0.0057
+31179,Wayne County,Nebraska,7.8,0.3645
+32013,Humboldt County,Nevada,7.8,0.6084
+33019,Sullivan County,New Hampshire,7.8,0.3314
+34037,Sussex County,New Jersey,7.8,0.0465
+38057,Mercer County,North Dakota,7.8,0.4416
+38063,Nelson County,North Dakota,7.8,0.1694
+39005,Ashland County,Ohio,7.8,0.7373
+40061,Haskell County,Oklahoma,7.8,0.4429
+40113,Osage County,Oklahoma,7.8,0.5552
+41053,Polk County,Oregon,7.8,0.5677
+42045,Delaware County,Pennsylvania,7.8,0.7272
+42083,Mckean County,Pennsylvania,7.8,0.703
+46003,Aurora County,South Dakota,7.8,0.1703
+47033,Crockett County,Tennessee,7.8,0.4072
+47057,Grainger County,Tennessee,7.8,0.3152
+47189,Wilson County,Tennessee,7.8,0.1582
+48157,Fort Bend County,Texas,7.8,0.2248
+48429,Stephens County,Texas,7.8,0.6285
+49027,Millard County,Utah,7.8,0.3442
+49041,Sevier County,Utah,7.8,0.1251
+51071,Giles County,Virginia,7.8,0.1309
+51157,Rappahannock County,Virginia,7.8,0.0019
+51177,Spotsylvania County,Virginia,7.8,0.1468
+51680,Lynchburg City,Virginia,7.8,0.893
+55081,Monroe County,Wisconsin,7.8,0.638
+56037,Sweetwater County,Wyoming,7.8,0.412
+02016,Aleutians West Census Area,Alaska,7.9,0.9955
+02090,Fairbanks North Star Borough,Alaska,7.9,0.7529
+05097,Montgomery County,Arkansas,7.9,0.5091
+12015,Charlotte County,Florida,7.9,0.547
+12073,Leon County,Florida,7.9,0.8497
+13053,Chattahoochee County,Georgia,7.9,0.8889
+13149,Heard County,Georgia,7.9,0.567
+13209,Montgomery County,Georgia,7.9,0.8532
+13239,Quitman County,Georgia,7.9,0.6065
+13273,Terrell County,Georgia,7.9,0.9433
+13309,Wheeler County,Georgia,7.9,0.9911
+15007,Kauai County,Hawaii,7.9,0.397
+16079,Shoshone County,Idaho,7.9,0.7749
+17023,Clark County,Illinois,7.9,0.0891
+17035,Cumberland County,Illinois,7.9,0.1095
+17073,Henry County,Illinois,7.9,0.1289
+17127,Massac County,Illinois,7.9,0.8064
+17137,Morgan County,Illinois,7.9,0.7358
+18033,Dekalb County,Indiana,7.9,0.1971
+18073,Jasper County,Indiana,7.9,0.2241
+18175,Washington County,Indiana,7.9,0.2486
+19177,Van Buren County,Iowa,7.9,0.2547
+20083,Hodgeman County,Kansas,7.9,0.0576
+20115,Marion County,Kansas,7.9,0.2327
+20195,Trego County,Kansas,7.9,0.0796
+21057,Cumberland County,Kentucky,7.9,0.4632
+21075,Fulton County,Kentucky,7.9,0.4839
+21151,Madison County,Kentucky,7.9,0.5899
+21205,Rowan County,Kentucky,7.9,0.9742
+23031,York County,Maine,7.9,0.2811
+25013,Hampden County,Massachusetts,7.9,0.843
+26013,Baraga County,Michigan,7.9,0.7396
+27025,Chisago County,Minnesota,7.9,0.2862
+27057,Hubbard County,Minnesota,7.9,0.3266
+27093,Meeker County,Minnesota,7.9,0.4355
+27111,Otter Tail County,Minnesota,7.9,0.4753
+27147,Steele County,Minnesota,7.9,0.5699
+28045,Hancock County,Mississippi,7.9,0.3085
+29073,Gasconade County,Missouri,7.9,0.0443
+30077,Powell County,Montana,7.9,0.4998
+32017,Lincoln County,Nevada,7.9,0.3327
+35041,Roosevelt County,New Mexico,7.9,0.7389
+36055,Monroe County,New York,7.9,0.6574
+36069,Ontario County,New York,7.9,0.6301
+36111,Ulster County,New York,7.9,0.8023
+37053,Currituck County,North Carolina,7.9,0.0579
+37175,Transylvania County,North Carolina,7.9,0.3992
+39159,Union County,Ohio,7.9,0.291
+40077,Latimer County,Oklahoma,7.9,0.8797
+42105,Potter County,Pennsylvania,7.9,0.2875
+46057,Hamlin County,South Dakota,7.9,0.2273
+47133,Overton County,Tennessee,7.9,0.4218
+47173,Union County,Tennessee,7.9,0.6195
+48455,Trinity County,Texas,7.9,0.5027
+48481,Wharton County,Texas,7.9,0.7615
+50009,Essex County,Vermont,7.9,0.0207
+51049,Cumberland County,Virginia,7.9,0.2034
+51051,Dickenson County,Virginia,7.9,0.816
+51141,Patrick County,Virginia,7.9,0.4798
+51181,Surry County,Virginia,7.9,0.2588
+55139,Winnebago County,Wisconsin,7.9,0.4304
+02050,Bethel Census Area,Alaska,8,0.9478
+04013,Maricopa County,Arizona,8,0.7259
+05009,Boone County,Arkansas,8,0.46
+05061,Howard County,Arkansas,8,0.6581
+05089,Marion County,Arkansas,8,0.311
+06059,Orange County,California,8,0.5683
+06089,Shasta County,California,8,0.815
+06115,Yuba County,California,8,0.9077
+08123,Weld County,Colorado,8,0.5279
+12081,Manatee County,Florida,8,0.6511
+13003,Atkinson County,Georgia,8,0.7042
+13049,Charlton County,Georgia,8,0.7536
+13197,Marion County,Georgia,8,0.5938
+13263,Talbot County,Georgia,8,0.7453
+16051,Jefferson County,Idaho,8,0.1729
+16055,Kootenai County,Idaho,8,0.2572
+16087,Washington County,Idaho,8,0.4336
+17081,Jefferson County,Illinois,8,0.928
+17099,Lasalle County,Illinois,8,0.3741
+17113,Mclean County,Illinois,8,0.6393
+17115,Macon County,Illinois,8,0.6425
+17187,Warren County,Illinois,8,0.6756
+18007,Benton County,Indiana,8,0.0541
+18105,Monroe County,Indiana,8,0.8921
+19087,Henry County,Iowa,8,0.2528
+20017,Chase County,Kansas,8,0.4094
+20039,Decatur County,Kansas,8,0.0583
+20051,Ellis County,Kansas,8,0.3563
+20067,Grant County,Kansas,8,0.1535
+21003,Allen County,Kentucky,8,0.3674
+21061,Edmonson County,Kentucky,8,0.588
+21077,Gallatin County,Kentucky,8,0.6813
+25005,Bristol County,Massachusetts,8,0.6466
+25023,Plymouth County,Massachusetts,8,0.3515
+25027,Worcester County,Massachusetts,8,0.7931
+26011,Arenac County,Michigan,8,0.2709
+26019,Benzie County,Michigan,8,0.0767
+26143,Roscommon County,Michigan,8,0.2101
+26147,St. Clair County,Michigan,8,0.2289
+27097,Morrison County,Minnesota,8,0.4935
+27123,Ramsey County,Minnesota,8,0.944
+27129,Renville County,Minnesota,8,0.3018
+28055,Issaquena County,Mississippi,8,0.9997
+29007,Audrain County,Missouri,8,0.4737
+29015,Benton County,Missouri,8,0.5113
+29121,Macon County,Missouri,8,0.4514
+29145,Newton County,Missouri,8,0.4422
+29167,Polk County,Missouri,8,0.823
+31107,Knox County,Nebraska,8,0.4721
+31109,Lancaster County,Nebraska,8,0.6925
+32007,Elko County,Nevada,8,0.5893
+33003,Carroll County,New Hampshire,8,0.2111
+33005,Cheshire County,New Hampshire,8,0.5556
+34041,Warren County,New Jersey,8,0.3372
+35007,Colfax County,New Mexico,8,0.9678
+35043,Sandoval County,New Mexico,8,0.1847
+36031,Essex County,New York,8,0.7151
+36043,Herkimer County,New York,8,0.7106
+37007,Anson County,North Carolina,8,0.9682
+37029,Camden County,North Carolina,8,0.0341
+37087,Haywood County,North Carolina,8,0.1872
+39027,Clinton County,Ohio,8,0.5247
+39069,Henry County,Ohio,8,0.1082
+39169,Wayne County,Ohio,8,0.8297
+40005,Atoka County,Oklahoma,8,0.6705
+40029,Coal County,Oklahoma,8,0.39
+40085,Love County,Oklahoma,8,0.234
+40151,Woods County,Oklahoma,8,0.3473
+41039,Lane County,Oregon,8,0.8956
+42031,Clarion County,Pennsylvania,8,0.774
+42043,Dauphin County,Pennsylvania,8,0.6562
+42109,Snyder County,Pennsylvania,8,0.575
+42115,Susquehanna County,Pennsylvania,8,0.1519
+42117,Tioga County,Pennsylvania,8,0.4295
+46035,Davison County,South Dakota,8,0.6453
+46099,Minnehaha County,South Dakota,8,0.6765
+46125,Turner County,South Dakota,8,0.1057
+47027,Clay County,Tennessee,8,0.5279
+47165,Sumner County,Tennessee,8,0.1815
+48209,Hays County,Texas,8,0.7845
+48339,Montgomery County,Texas,8,0.5221
+48419,Shelby County,Texas,8,0.5294
+48451,Tom Green County,Texas,8,0.8851
+49013,Duchesne County,Utah,8,0.3808
+49039,Sanpete County,Utah,8,0.6749
+50021,Rutland County,Vermont,8,0.9443
+51137,Orange County,Virginia,8,0.3088
+53005,Benton County,Washington,8,0.5212
+55011,Buffalo County,Wisconsin,8,0.084
+55077,Marquette County,Wisconsin,8,0.2174
+55103,Richland County,Wisconsin,8,0.4467
+55137,Waushara County,Wisconsin,8,0.4951
+56017,Hot Springs County,Wyoming,8,0.3247
+05073,Lafayette County,Arkansas,8.1,0.6367
+06015,Del Norte County,California,8.1,0.9968
+06095,Solano County,California,8.1,0.6905
+08003,Alamosa County,Colorado,8.1,0.9943
+08021,Conejos County,Colorado,8.1,0.5903
+08075,Logan County,Colorado,8.1,0.9634
+13211,Morgan County,Georgia,8.1,0.0538
+13223,Paulding County,Georgia,8.1,0.0194
+13243,Randolph County,Georgia,8.1,0.8873
+13317,Wilkes County,Georgia,8.1,0.2455
+15009,Maui County,Hawaii,8.1,0.6622
+17051,Fayette County,Illinois,8.1,0.4623
+17089,Kane County,Illinois,8.1,0.2958
+17101,Lawrence County,Illinois,8.1,0.8777
+17121,Marion County,Illinois,8.1,0.6517
+17153,Pulaski County,Illinois,8.1,0.3337
+17177,Stephenson County,Illinois,8.1,0.4301
+17179,Tazewell County,Illinois,8.1,0.2617
+18029,Dearborn County,Indiana,8.1,0.1226
+18057,Hamilton County,Indiana,8.1,0.035
+18087,Lagrange County,Indiana,8.1,0.44
+18117,Orange County,Indiana,8.1,0.7039
+18143,Scott County,Indiana,8.1,0.3894
+19037,Chickasaw County,Iowa,8.1,0.0525
+19055,Delaware County,Iowa,8.1,0.0996
+19165,Shelby County,Iowa,8.1,0.1149
+20055,Finney County,Kansas,8.1,0.7119
+20069,Gray County,Kansas,8.1,0.2305
+20089,Jewell County,Kansas,8.1,0.0535
+21055,Crittenden County,Kentucky,8.1,0.4419
+21157,Marshall County,Kentucky,8.1,0.4263
+21171,Monroe County,Kentucky,8.1,0.5979
+22091,St. Helena Parish,Louisiana,8.1,0.7647
+26023,Branch County,Michigan,8.1,0.7896
+26119,Montmorency County,Michigan,8.1,0.1671
+26161,Washtenaw County,Michigan,8.1,0.7873
+27083,Lyon County,Minnesota,8.1,0.7978
+27099,Mower County,Minnesota,8.1,0.7116
+27149,Stevens County,Minnesota,8.1,0.6539
+27151,Swift County,Minnesota,8.1,0.3012
+27157,Wabasha County,Minnesota,8.1,0.1152
+27159,Wadena County,Minnesota,8.1,0.7962
+29037,Cass County,Missouri,8.1,0.0684
+29051,Cole County,Missouri,8.1,0.5145
+29103,Knox County,Missouri,8.1,0.2235
+29107,Lafayette County,Missouri,8.1,0.5842
+29151,Osage County,Missouri,8.1,0.1691
+29205,Shelby County,Missouri,8.1,0.3712
+30015,Chouteau County,Montana,8.1,0.6173
+30045,Judith Basin County,Montana,8.1,0.0226
+31041,Custer County,Nebraska,8.1,0.1379
+37103,Jones County,North Carolina,8.1,0.6568
+37119,Mecklenburg County,North Carolina,8.1,0.4616
+37159,Rowan County,North Carolina,8.1,0.8144
+37177,Tyrrell County,North Carolina,8.1,0.8602
+37179,Union County,North Carolina,8.1,0.0888
+38017,Cass County,North Dakota,8.1,0.5323
+39091,Logan County,Ohio,8.1,0.3346
+40065,Jackson County,Oklahoma,8.1,0.6893
+40141,Tillman County,Oklahoma,8.1,0.5008
+41007,Clatsop County,Oregon,8.1,0.7577
+41051,Multnomah County,Oregon,8.1,0.9271
+46019,Butte County,South Dakota,8.1,0.4524
+47005,Benton County,Tennessee,8.1,0.51
+47043,Dickson County,Tennessee,8.1,0.4734
+48001,Anderson County,Texas,8.1,0.978
+48181,Grayson County,Texas,8.1,0.6383
+48183,Gregg County,Texas,8.1,0.951
+48185,Grimes County,Texas,8.1,0.9147
+48281,Lampasas County,Texas,8.1,0.4136
+48287,Lee County,Texas,8.1,0.6488
+48325,Medina County,Texas,8.1,0.8004
+48367,Parker County,Texas,8.1,0.3645
+48405,San Augustine County,Texas,8.1,0.7819
+48477,Washington County,Texas,8.1,0.8892
+51011,Appomattox County,Virginia,8.1,0.1805
+51085,Hanover County,Virginia,8.1,0.0509
+53001,Adams County,Washington,8.1,0.8933
+53069,Wahkiakum County,Washington,8.1,0.1133
+55031,Douglas County,Wisconsin,8.1,0.6679
+55121,Trempealeau County,Wisconsin,8.1,0.3263
+02070,Dillingham Census Area,Alaska,8.2,0.9093
+02122,Kenai Peninsula Borough,Alaska,8.2,0.7402
+02170,Matanuska-Susitna Borough,Alaska,8.2,0.262
+05067,Jackson County,Arkansas,8.2,0.7084
+05095,Monroe County,Arkansas,8.2,0.4244
+06033,Lake County,California,8.2,0.837
+06053,Monterey County,California,8.2,0.8399
+08109,Saguache County,Colorado,8.2,0.5702
+13043,Candler County,Georgia,8.2,0.9408
+13159,Jasper County,Georgia,8.2,0.3493
+13165,Jenkins County,Georgia,8.2,0.5301
+13229,Pierce County,Georgia,8.2,0.156
+17085,Jo Daviess County,Illinois,8.2,0.0427
+18129,Posey County,Indiana,8.2,0.0404
+19013,Black Hawk County,Iowa,8.2,0.6663
+19021,Buena Vista County,Iowa,8.2,0.7052
+19113,Linn County,Iowa,8.2,0.3938
+19123,Mahaska County,Iowa,8.2,0.5989
+19171,Tama County,Iowa,8.2,0.1964
+20003,Anderson County,Kansas,8.2,0.2451
+20005,Atchison County,Kansas,8.2,0.8163
+20123,Mitchell County,Kansas,8.2,0.3661
+20129,Morton County,Kansas,8.2,0.0812
+21113,Jessamine County,Kentucky,8.2,0.2703
+25009,Essex County,Massachusetts,8.2,0.8045
+26021,Berrien County,Michigan,8.2,0.7364
+26129,Ogemaw County,Michigan,8.2,0.5632
+27091,Martin County,Minnesota,8.2,0.2315
+27169,Winona County,Minnesota,8.2,0.7743
+29045,Clark County,Missouri,8.2,0.2986
+29063,Dekalb County,Missouri,8.2,0.8558
+29105,Laclede County,Missouri,8.2,0.6256
+29149,Oregon County,Missouri,8.2,0.171
+29169,Pulaski County,Missouri,8.2,0.7323
+29175,Randolph County,Missouri,8.2,0.7256
+29223,Wayne County,Missouri,8.2,0.6323
+30083,Richland County,Montana,8.2,0.5167
+31003,Antelope County,Nebraska,8.2,0.0115
+31033,Cheyenne County,Nebraska,8.2,0.2732
+31053,Dodge County,Nebraska,8.2,0.5737
+31119,Madison County,Nebraska,8.2,0.6848
+31125,Nance County,Nebraska,8.2,0.0487
+36025,Delaware County,New York,8.2,0.8991
+37039,Cherokee County,North Carolina,8.2,0.2884
+37121,Mitchell County,North Carolina,8.2,0.3171
+39055,Geauga County,Ohio,8.2,0.3496
+40053,Grant County,Oklahoma,8.2,0.0277
+40139,Texas County,Oklahoma,8.2,0.9182
+41041,Lincoln County,Oregon,8.2,0.6482
+42027,Centre County,Pennsylvania,8.2,0.9701
+42077,Lehigh County,Pennsylvania,8.2,0.7221
+42095,Northampton County,Pennsylvania,8.2,0.447
+46103,Pennington County,South Dakota,8.2,0.8118
+47123,Monroe County,Tennessee,8.2,0.3416
+48113,Dallas County,Texas,8.2,0.7081
+49021,Iron County,Utah,8.2,0.4438
+51095,James City County,Virginia,8.2,0.1426
+51683,Manassas City,Virginia,8.2,0.2814
+53035,Kitsap County,Washington,8.2,0.6507
+55021,Columbia County,Wisconsin,8.2,0.334
+01029,Cleburne County,Alabama,8.3,0.1
+06005,Amador County,California,8.3,0.751
+06045,Mendocino County,California,8.3,0.8491
+06085,Santa Clara County,California,8.3,0.731
+09011,New London County,Connecticut,8.3,0.5396
+12089,Nassau County,Florida,8.3,0.3031
+13059,Clarke County,Georgia,8.3,0.9551
+16063,Lincoln County,Idaho,8.3,0.2856
+16071,Oneida County,Idaho,8.3,0.0618
+19059,Dickinson County,Iowa,8.3,0.263
+19083,Hardin County,Iowa,8.3,0.2894
+19105,Jones County,Iowa,8.3,0.5033
+20041,Dickinson County,Kansas,8.3,0.3231
+20109,Logan County,Kansas,8.3,0.0993
+20135,Ness County,Kansas,8.3,0.0544
+20143,Ottawa County,Kansas,8.3,0.0239
+21087,Green County,Kentucky,8.3,0.3238
+21179,Nelson County,Kentucky,8.3,0.2697
+22063,Livingston Parish,Louisiana,8.3,0.5215
+25003,Berkshire County,Massachusetts,8.3,0.6004
+25025,Suffolk County,Massachusetts,8.3,0.9774
+26039,Crawford County,Michigan,8.3,0.2022
+26067,Ionia County,Michigan,8.3,0.8306
+27063,Jackson County,Minnesota,8.3,0.0382
+27073,Lac Qui Parle County,Minnesota,8.3,0.2292
+27161,Waseca County,Minnesota,8.3,0.4346
+28089,Madison County,Mississippi,8.3,0.2693
+29009,Barry County,Missouri,8.3,0.3384
+29049,Clinton County,Missouri,8.3,0.0786
+29083,Henry County,Missouri,8.3,0.539
+29093,Iron County,Missouri,8.3,0.7861
+29159,Pettis County,Missouri,8.3,0.6412
+29163,Pike County,Missouri,8.3,0.6794
+36001,Albany County,New York,8.3,0.7297
+36027,Dutchess County,New York,8.3,0.9293
+36103,Suffolk County,New York,8.3,0.4288
+37003,Alexander County,North Carolina,8.3,0.5696
+37079,Greene County,North Carolina,8.3,0.9793
+37089,Henderson County,North Carolina,8.3,0.4167
+37111,Mcdowell County,North Carolina,8.3,0.7539
+37185,Warren County,North Carolina,8.3,0.795
+38005,Benson County,North Dakota,8.3,0.6883
+38021,Dickey County,North Dakota,8.3,0.4438
+38031,Foster County,North Dakota,8.3,0.1165
+38037,Grant County,North Dakota,8.3,0.2124
+38099,Walsh County,North Dakota,8.3,0.4317
+39103,Medina County,Ohio,8.3,0.0592
+40039,Custer County,Oklahoma,8.3,0.8427
+40047,Garfield County,Oklahoma,8.3,0.3922
+40055,Greer County,Oklahoma,8.3,0.5387
+40103,Noble County,Oklahoma,8.3,0.3244
+41029,Jackson County,Oregon,8.3,0.8472
+42003,Allegheny County,Pennsylvania,8.3,0.6074
+42129,Westmoreland County,Pennsylvania,8.3,0.3967
+46009,Bon Homme County,South Dakota,8.3,0.418
+46023,Charles Mix County,South Dakota,8.3,0.6918
+46027,Clay County,South Dakota,8.3,0.5677
+46083,Lincoln County,South Dakota,8.3,0.0646
+47037,Davidson County,Tennessee,8.3,0.8125
+47061,Grundy County,Tennessee,8.3,0.5708
+47159,Smith County,Tennessee,8.3,0.1589
+47183,Weakley County,Tennessee,8.3,0.6956
+48015,Austin County,Texas,8.3,0.4021
+48179,Gray County,Texas,8.3,0.8106
+48217,Hill County,Texas,8.3,0.7676
+48503,Young County,Texas,8.3,0.2967
+51540,Charlottesville City,Virginia,8.3,0.8714
+51630,Fredericksburg City,Virginia,8.3,0.9109
+53075,Whitman County,Washington,8.3,0.8828
+54027,Hampshire County,West Virginia,8.3,0.7182
+55115,Shawano County,Wisconsin,8.3,0.2238
+56013,Fremont County,Wyoming,8.3,0.7106
+01003,Baldwin County,Alabama,8.4,0.3359
+02275,Wrangell City and Borough,Alaska,8.4,0.8052
+05023,Cleburne County,Arkansas,8.4,0.0895
+13037,Calhoun County,Georgia,8.4,0.9834
+13067,Cobb County,Georgia,8.4,0.2264
+13121,Fulton County,Georgia,8.4,0.8259
+13163,Jefferson County,Georgia,8.4,0.9032
+13259,Stewart County,Georgia,8.4,0.7759
+13265,Taliaferro County,Georgia,8.4,0.6934
+15005,Kalawao County,Hawaii,8.4,0.4963
+16065,Madison County,Idaho,8.4,0.5349
+17019,Champaign County,Illinois,8.4,0.9936
+17055,Franklin County,Illinois,8.4,0.4053
+17095,Knox County,Illinois,8.4,0.8294
+18171,Warren County,Indiana,8.4,0.0204
+19029,Cass County,Iowa,8.4,0.1799
+19073,Greene County,Iowa,8.4,0.1449
+19133,Monona County,Iowa,8.4,0.2003
+19153,Polk County,Iowa,8.4,0.6157
+20059,Franklin County,Kansas,8.4,0.3394
+20095,Kingman County,Kansas,8.4,0.0312
+20113,Mcpherson County,Kansas,8.4,0.2057
+20145,Pawnee County,Kansas,8.4,0.1656
+20181,Sherman County,Kansas,8.4,0.3569
+21065,Estill County,Kentucky,8.4,0.6119
+21091,Hancock County,Kentucky,8.4,0.127
+21189,Owsley County,Kentucky,8.4,0.7348
+22021,Caldwell Parish,Louisiana,8.4,0.9589
+23011,Kennebec County,Maine,8.4,0.8122
+23017,Oxford County,Maine,8.4,0.4145
+23029,Washington County,Maine,8.4,0.5231
+26015,Barry County,Michigan,8.4,0.1102
+26017,Bay County,Michigan,8.4,0.3241
+26045,Eaton County,Michigan,8.4,0.4126
+26063,Huron County,Michigan,8.4,0.2897
+26065,Ingham County,Michigan,8.4,0.8574
+26079,Kalkaska County,Michigan,8.4,0.3123
+26123,Newaygo County,Michigan,8.4,0.4963
+26157,Tuscola County,Michigan,8.4,0.382
+27009,Benton County,Minnesota,8.4,0.8755
+27079,Le Sueur County,Minnesota,8.4,0.1757
+27125,Red Lake County,Minnesota,8.4,0.3225
+28125,Sharkey County,Mississippi,8.4,0.9284
+28155,Webster County,Mississippi,8.4,0.1108
+29029,Camden County,Missouri,8.4,0.2945
+29187,St. Francois County,Missouri,8.4,0.9112
+29215,Texas County,Missouri,8.4,0.6797
+29229,Wright County,Missouri,8.4,0.6963
+30047,Lake County,Montana,8.4,0.4253
+31093,Howard County,Nebraska,8.4,0.0261
+31115,Loup County,Nebraska,8.4,0.0067
+31141,Platte County,Nebraska,8.4,0.3442
+34029,Ocean County,New Jersey,8.4,0.3757
+36053,Madison County,New York,8.4,0.531
+37099,Jackson County,North Carolina,8.4,0.8733
+37105,Lee County,North Carolina,8.4,0.6447
+38029,Emmons County,North Dakota,8.4,0.1531
+39011,Auglaize County,Ohio,8.4,0.084
+39133,Portage County,Ohio,8.4,0.5403
+40107,Okfuskee County,Oklahoma,8.4,0.9137
+41067,Washington County,Oregon,8.4,0.5657
+42059,Greene County,Pennsylvania,8.4,0.8325
+42063,Indiana County,Pennsylvania,8.4,0.9198
+42131,Wyoming County,Pennsylvania,8.4,0.1748
+46095,Mellette County,South Dakota,8.4,0.8711
+46129,Walworth County,South Dakota,8.4,0.8058
+47141,Putnam County,Tennessee,8.4,0.546
+47145,Roane County,Tennessee,8.4,0.4132
+48241,Jasper County,Texas,8.4,0.6711
+48427,Starr County,Texas,8.4,0.553
+50003,Bennington County,Vermont,8.4,0.5992
+51037,Charlotte County,Virginia,8.4,0.3524
+51520,Bristol City,Virginia,8.4,0.5358
+51775,Salem City,Virginia,8.4,0.624
+53047,Okanogan County,Washington,8.4,0.744
+53059,Skamania County,Washington,8.4,0.4069
+54013,Calhoun County,West Virginia,8.4,0.1993
+54021,Gilmer County,West Virginia,8.4,0.8491
+54069,Ohio County,West Virginia,8.4,0.7482
+55029,Door County,Wisconsin,8.4,0.1302
+55049,Iowa County,Wisconsin,8.4,0.0353
+55095,Polk County,Wisconsin,8.4,0.1076
+56025,Natrona County,Wyoming,8.4,0.4766
+56041,Uinta County,Wyoming,8.4,0.6657
+02164,Lake and Peninsula Borough,Alaska,8.5,0.7195
+05025,Cleveland County,Arkansas,8.5,0.2038
+05081,Little River County,Arkansas,8.5,0.4187
+05147,Woodruff County,Arkansas,8.5,0.4836
+08089,Otero County,Colorado,8.5,0.6269
+12011,Broward County,Florida,8.5,0.6638
+12129,Wakulla County,Florida,8.5,0.5833
+13055,Chattooga County,Georgia,8.5,0.9669
+13155,Irwin County,Georgia,8.5,0.3849
+13157,Jackson County,Georgia,8.5,0.1735
+13167,Johnson County,Georgia,8.5,0.993
+13237,Putnam County,Georgia,8.5,0.2719
+13321,Worth County,Georgia,8.5,0.2407
+16003,Adams County,Idaho,8.5,0.1137
+16015,Boise County,Idaho,8.5,0.0401
+18009,Blackford County,Indiana,8.5,0.2795
+18065,Henry County,Indiana,8.5,0.3457
+19001,Adair County,Iowa,8.5,0.0554
+19023,Butler County,Iowa,8.5,0.0372
+19169,Story County,Iowa,8.5,0.6823
+19193,Woodbury County,Iowa,8.5,0.7911
+20203,Wichita County,Kansas,8.5,0.2872
+21007,Ballard County,Kentucky,8.5,0.3556
+21099,Hart County,Kentucky,8.5,0.6479
+21105,Hickman County,Kentucky,8.5,0.496
+22003,Allen Parish,Louisiana,8.5,0.9296
+22025,Catahoula Parish,Louisiana,8.5,0.8469
+22123,West Carroll Parish,Louisiana,8.5,0.2521
+26073,Isabella County,Michigan,8.5,0.9086
+26115,Monroe County,Michigan,8.5,0.2187
+27013,Blue Earth County,Minnesota,8.5,0.7549
+27015,Brown County,Minnesota,8.5,0.3228
+27017,Carlton County,Minnesota,8.5,0.6641
+27135,Roseau County,Minnesota,8.5,0.5747
+29115,Linn County,Missouri,8.5,0.1006
+30013,Cascade County,Montana,8.5,0.8564
+30089,Sanders County,Montana,8.5,0.1016
+31023,Butler County,Nebraska,8.5,0.0914
+31025,Cass County,Nebraska,8.5,0.0493
+31153,Sarpy County,Nebraska,8.5,0.1439
+32019,Lyon County,Nevada,8.5,0.3419
+33011,Hillsborough County,New Hampshire,8.5,0.4998
+34009,Cape May County,New Jersey,8.5,0.5202
+36041,Hamilton County,New York,8.5,0.2028
+36071,Orange County,New York,8.5,0.9004
+38001,Adams County,North Dakota,8.5,0.2178
+38103,Wells County,North Dakota,8.5,0.0879
+39021,Champaign County,Ohio,8.5,0.2681
+39121,Noble County,Ohio,8.5,0.5072
+40043,Dewey County,Oklahoma,8.5,0.0675
+40067,Jefferson County,Oklahoma,8.5,0.3859
+40135,Sequoyah County,Oklahoma,8.5,0.603
+40149,Washita County,Oklahoma,8.5,0.3531
+41043,Linn County,Oregon,8.5,0.6428
+42057,Fulton County,Pennsylvania,8.5,0.2095
+42079,Luzerne County,Pennsylvania,8.5,0.6342
+46029,Codington County,South Dakota,8.5,0.6221
+46065,Hughes County,South Dakota,8.5,0.9838
+47023,Chester County,Tennessee,8.5,0.4973
+47153,Sequatchie County,Tennessee,8.5,0.3916
+48231,Hunt County,Texas,8.5,0.9545
+48259,Kendall County,Texas,8.5,0.2455
+48491,Williamson County,Texas,8.5,0.1897
+51113,Madison County,Virginia,8.5,0.1624
+51595,Emporia City,Virginia,8.5,0.8656
+51620,Franklin City,Virginia,8.5,0.2919
+51830,Williamsburg City,Virginia,8.5,0.8348
+53063,Spokane County,Washington,8.5,0.7896
+53067,Thurston County,Washington,8.5,0.4518
+54095,Tyler County,West Virginia,8.5,0.1032
+56001,Albany County,Wyoming,8.5,0.8192
+01027,Clay County,Alabama,8.6,0.1579
+02240,Southeast Fairbanks Census Area,Alaska,8.6,0.7259
+05113,Polk County,Arkansas,8.6,0.646
+05137,Stone County,Arkansas,8.6,0.192
+08083,Montezuma County,Colorado,8.6,0.2846
+13015,Bartow County,Georgia,8.6,0.4238
+13017,Ben Hill County,Georgia,8.6,0.6253
+13141,Hancock County,Georgia,8.6,0.921
+13289,Twiggs County,Georgia,8.6,0.2757
+17201,Winnebago County,Illinois,8.6,0.554
+18045,Fountain County,Indiana,8.6,0.0818
+18077,Jefferson County,Indiana,8.6,0.5645
+18099,Marshall County,Indiana,8.6,0.6886
+18113,Noble County,Indiana,8.6,0.4371
+19019,Buchanan County,Iowa,8.6,0.1277
+19135,Monroe County,Iowa,8.6,0.2159
+19173,Taylor County,Iowa,8.6,0.1417
+19181,Warren County,Iowa,8.6,0.284
+19195,Worth County,Iowa,8.6,0.0166
+20073,Greenwood County,Kansas,8.6,0.1821
+20141,Osborne County,Kansas,8.6,0.0264
+20159,Rice County,Kansas,8.6,0.2974
+21035,Calloway County,Kentucky,8.6,0.8026
+21217,Taylor County,Kentucky,8.6,0.5132
+22035,East Carroll Parish,Louisiana,8.6,0.9946
+22085,Sabine Parish,Louisiana,8.6,0.7176
+22093,St. James Parish,Louisiana,8.6,0.6027
+23027,Waldo County,Maine,8.6,0.2986
+24021,Frederick County,Maryland,8.6,0.206
+26101,Manistee County,Michigan,8.6,0.5011
+26105,Mason County,Michigan,8.6,0.327
+27029,Clearwater County,Minnesota,8.6,0.8332
+27155,Traverse County,Minnesota,8.6,0.3754
+28053,Humphreys County,Mississippi,8.6,0.5046
+29071,Franklin County,Missouri,8.6,0.17
+29189,St. Louis County,Missouri,8.6,0.3273
+29221,Washington County,Missouri,8.6,0.7695
+36075,Oswego County,New York,8.6,0.9354
+38059,Morton County,North Dakota,8.6,0.4811
+39031,Coshocton County,Ohio,8.6,0.5998
+39085,Lake County,Ohio,8.6,0.1528
+40069,Johnston County,Oklahoma,8.6,0.5342
+40131,Rogers County,Oklahoma,8.6,0.2773
+42009,Bedford County,Pennsylvania,8.6,0.3053
+42035,Clinton County,Pennsylvania,8.6,0.7287
+42037,Columbia County,Pennsylvania,8.6,0.5196
+42073,Lawrence County,Pennsylvania,8.6,0.5253
+42081,Lycoming County,Pennsylvania,8.6,0.6708
+46085,Lyman County,South Dakota,8.6,0.6944
+46111,Sanborn County,South Dakota,8.6,0.0392
+47087,Jackson County,Tennessee,8.6,0.4556
+48009,Archer County,Texas,8.6,0.0309
+48037,Bowie County,Texas,8.6,0.9806
+48077,Clay County,Texas,8.6,0.1092
+48309,Mclennan County,Texas,8.6,0.8984
+51007,Amelia County,Virginia,8.6,0.2684
+51165,Rockingham County,Virginia,8.6,0.4339
+51820,Waynesboro City,Virginia,8.6,0.3305
+53023,Garfield County,Washington,8.6,0.0201
+53025,Grant County,Washington,8.6,0.7982
+53061,Snohomish County,Washington,8.6,0.5527
+54105,Wirt County,West Virginia,8.6,0.1388
+55005,Barron County,Wisconsin,8.6,0.5307
+55009,Brown County,Wisconsin,8.6,0.5482
+55053,Jackson County,Wisconsin,8.6,0.7278
+55101,Racine County,Wisconsin,8.6,0.4839
+05125,Saline County,Arkansas,8.7,0.3257
+08023,Costilla County,Colorado,8.7,0.4655
+09003,Hartford County,Connecticut,8.7,0.737
+11001,District Of Columbia,District of Columbia,8.7,0.9739
+12035,Flagler County,Florida,8.7,0.1019
+12117,Seminole County,Florida,8.7,0.185
+13235,Pulaski County,Georgia,8.7,0.8701
+13257,Stephens County,Georgia,8.7,0.7781
+13269,Taylor County,Georgia,8.7,0.9
+16029,Caribou County,Idaho,8.7,0.3378
+16067,Minidoka County,Idaho,8.7,0.1761
+17197,Will County,Illinois,8.7,0.1465
+18047,Franklin County,Indiana,8.7,0.099
+18169,Wabash County,Indiana,8.7,0.3543
+19053,Decatur County,Iowa,8.7,0.9542
+19155,Pottawattamie County,Iowa,8.7,0.6387
+20035,Cowley County,Kansas,8.7,0.7202
+20127,Morris County,Kansas,8.7,0.1834
+21215,Spencer County,Kentucky,8.7,0.0267
+24029,Kent County,Maryland,8.7,0.6396
+26037,Clinton County,Michigan,8.7,0.0831
+26053,Gogebic County,Michigan,8.7,0.6186
+26057,Gratiot County,Michigan,8.7,0.7001
+26081,Kent County,Michigan,8.7,0.6501
+26141,Presque Isle County,Michigan,8.7,0.072
+27165,Watonwan County,Minnesota,8.7,0.2808
+28037,Franklin County,Mississippi,8.7,0.1592
+28163,Yazoo County,Mississippi,8.7,0.9405
+29013,Bates County,Missouri,8.7,0.404
+29043,Christian County,Missouri,8.7,0.1248
+30027,Fergus County,Montana,8.7,0.7291
+30093,Silver Bow County,Montana,8.7,0.8415
+30105,Valley County,Montana,8.7,0.1
+31059,Fillmore County,Nebraska,8.7,0.0656
+31139,Pierce County,Nebraska,8.7,0.0385
+31155,Saunders County,Nebraska,8.7,0.0302
+32001,Churchill County,Nevada,8.7,0.6358
+36095,Schoharie County,New York,8.7,0.5995
+37071,Gaston County,North Carolina,8.7,0.5661
+37139,Pasquotank County,North Carolina,8.7,0.8268
+37183,Wake County,North Carolina,8.7,0.4384
+39041,Delaware County,Ohio,8.7,0.0417
+39045,Fairfield County,Ohio,8.7,0.3021
+39125,Paulding County,Ohio,8.7,0.2197
+40051,Grady County,Oklahoma,8.7,0.2888
+40093,Major County,Oklahoma,8.7,0.1783
+41031,Jefferson County,Oregon,8.7,0.7889
+41045,Malheur County,Oregon,8.7,0.9994
+46077,Kingsbury County,South Dakota,8.7,0.0669
+48073,Cherokee County,Texas,8.7,0.9217
+48257,Kaufman County,Texas,8.7,0.3715
+48331,Milam County,Texas,8.7,0.5829
+49011,Davis County,Utah,8.7,0.1379
+51057,Essex County,Virginia,8.7,0.3044
+51093,Isle Of Wight County,Virginia,8.7,0.2397
+51097,King And Queen County,Virginia,8.7,0.0649
+51183,Sussex County,Virginia,8.7,0.8965
+53013,Columbia County,Washington,8.7,0.2372
+55111,Sauk County,Wisconsin,8.7,0.4011
+01117,Shelby County,Alabama,8.8,0.1764
+02020,Anchorage Municipality,Alaska,8.8,0.8176
+02130,Ketchikan Gateway Borough,Alaska,8.8,0.9242
+04011,Greenlee County,Arizona,8.8,0.3537
+05011,Bradley County,Arkansas,8.8,0.8924
+05041,Desha County,Arkansas,8.8,0.375
+05047,Franklin County,Arkansas,8.8,0.5495
+06067,Sacramento County,California,8.8,0.7603
+09009,New Haven County,Connecticut,8.8,0.801
+12037,Franklin County,Florida,8.8,0.8781
+13013,Barrow County,Georgia,8.8,0.0506
+13079,Crawford County,Georgia,8.8,0.5431
+13103,Effingham County,Georgia,8.8,0.1907
+13105,Elbert County,Georgia,8.8,0.5234
+13173,Lanier County,Georgia,8.8,0.6995
+13181,Lincoln County,Georgia,8.8,0.2904
+13189,Mcduffie County,Georgia,8.8,0.8854
+13303,Washington County,Georgia,8.8,0.9252
+16045,Gem County,Idaho,8.8,0.2471
+16069,Nez Perce County,Idaho,8.8,0.709
+17195,Whiteside County,Illinois,8.8,0.2439
+18011,Boone County,Indiana,8.8,0.1242
+18165,Vermillion County,Indiana,8.8,0.4817
+19007,Appanoose County,Iowa,8.8,0.4922
+19095,Iowa County,Iowa,8.8,0.1347
+20087,Jefferson County,Kansas,8.8,0.0172
+20169,Saline County,Kansas,8.8,0.4947
+21031,Butler County,Kentucky,8.8,0.6641
+21155,Marion County,Kentucky,8.8,0.8379
+21175,Morgan County,Kentucky,8.8,0.9819
+21197,Powell County,Kentucky,8.8,0.7927
+22013,Bienville Parish,Louisiana,8.8,0.9338
+22107,Tensas Parish,Louisiana,8.8,0.425
+26033,Chippewa County,Michigan,8.8,0.7727
+26035,Clare County,Michigan,8.8,0.674
+27007,Beltrami County,Minnesota,8.8,0.9522
+27167,Wilkin County,Minnesota,8.8,0.6804
+28145,Union County,Mississippi,8.8,0.5298
+29183,St. Charles County,Missouri,8.8,0.1213
+29219,Warren County,Missouri,8.8,0.3181
+30051,Liberty County,Montana,8.8,0.6154
+31019,Buffalo County,Nebraska,8.8,0.6211
+34017,Hudson County,New Jersey,8.8,0.8434
+34031,Passaic County,New Jersey,8.8,0.9067
+35053,Socorro County,New Mexico,8.8,0.9803
+36007,Broome County,New York,8.8,0.8303
+36039,Greene County,New York,8.8,0.7727
+36083,Rensselaer County,New York,8.8,0.7498
+37001,Alamance County,North Carolina,8.8,0.802
+37035,Catawba County,North Carolina,8.8,0.6616
+37095,Hyde County,North Carolina,8.8,0.581
+37141,Pender County,North Carolina,8.8,0.5269
+37149,Polk County,North Carolina,8.8,0.7338
+38081,Sargent County,North Dakota,8.8,0.1853
+40035,Craig County,Oklahoma,8.8,0.7243
+40081,Lincoln County,Oklahoma,8.8,0.2805
+40083,Logan County,Oklahoma,8.8,0.3789
+41033,Josephine County,Oregon,8.8,0.7068
+42015,Bradford County,Pennsylvania,8.8,0.5065
+42071,Lancaster County,Pennsylvania,8.8,0.7485
+44003,Kent County,Rhode Island,8.8,0.2311
+46109,Roberts County,South Dakota,8.8,0.5059
+47139,Polk County,Tennessee,8.8,0.361
+47185,White County,Tennessee,8.8,0.376
+48187,Guadalupe County,Texas,8.8,0.3989
+49057,Weber County,Utah,8.8,0.4298
+51033,Caroline County,Virginia,8.8,0.3973
+51103,Lancaster County,Virginia,8.8,0.1512
+51109,Louisa County,Virginia,8.8,0.1856
+51147,Prince Edward County,Virginia,8.8,0.8606
+51153,Prince William County,Virginia,8.8,0.2346
+51187,Warren County,Virginia,8.8,0.2117
+54085,Ritchie County,West Virginia,8.8,0.106
+05105,Perry County,Arkansas,8.9,0.6406
+06007,Butte County,California,8.9,0.9484
+12095,Orange County,Florida,8.9,0.787
+13057,Cherokee County,Georgia,8.9,0.0955
+13061,Clay County,Georgia,8.9,0.7606
+13099,Early County,Georgia,8.9,0.8039
+13183,Long County,Georgia,8.9,0.2461
+13195,Madison County,Georgia,8.9,0.2168
+13199,Meriwether County,Georgia,8.9,0.7794
+13207,Monroe County,Georgia,8.9,0.6762
+13225,Peach County,Georgia,8.9,0.9513
+13301,Warren County,Georgia,8.9,0.8217
+15001,Hawaii County,Hawaii,8.9,0.5466
+17001,Adams County,Illinois,8.9,0.3782
+17119,Madison County,Illinois,8.9,0.3725
+17143,Peoria County,Illinois,8.9,0.6444
+18031,Decatur County,Indiana,8.9,0.1706
+18061,Harrison County,Indiana,8.9,0.1356
+18081,Johnson County,Indiana,8.9,0.1891
+19045,Clinton County,Iowa,8.9,0.3219
+19147,Palo Alto County,Iowa,8.9,0.3327
+20047,Edwards County,Kansas,8.9,0.2754
+20137,Norton County,Kansas,8.9,0.6555
+20149,Pottawatomie County,Kansas,8.9,0.2254
+21085,Grayson County,Kentucky,8.9,0.5501
+21137,Lincoln County,Kentucky,8.9,0.4623
+21203,Rockcastle County,Kentucky,8.9,0.702
+22067,Morehouse Parish,Louisiana,8.9,0.9023
+27087,Mahnomen County,Minnesota,8.9,0.7679
+27115,Pine County,Minnesota,8.9,0.7393
+27143,Sibley County,Minnesota,8.9,0.1312
+28131,Stone County,Mississippi,8.9,0.5985
+29087,Holt County,Missouri,8.9,0.256
+29097,Jasper County,Missouri,8.9,0.5813
+31185,York County,Nebraska,8.9,0.3604
+37013,Beaufort County,North Carolina,8.9,0.3996
+37151,Randolph County,North Carolina,8.9,0.4769
+37193,Wilkes County,North Carolina,8.9,0.4578
+38025,Dunn County,North Dakota,8.9,0.4435
+39157,Tuscarawas County,Ohio,8.9,0.3181
+40111,Okmulgee County,Oklahoma,8.9,0.7434
+41019,Douglas County,Oregon,8.9,0.8682
+42055,Franklin County,Pennsylvania,8.9,0.2579
+47017,Carroll County,Tennessee,8.9,0.6979
+47035,Cumberland County,Tennessee,8.9,0.3187
+47039,Decatur County,Tennessee,8.9,0.235
+47041,Dekalb County,Tennessee,8.9,0.3477
+47079,Henry County,Tennessee,8.9,0.2748
+47181,Wayne County,Tennessee,8.9,0.879
+48291,Liberty County,Texas,8.9,0.9933
+51035,Carroll County,Virginia,8.9,0.1461
+53011,Clark County,Washington,8.9,0.3658
+53039,Klickitat County,Washington,8.9,0.4639
+53045,Mason County,Washington,8.9,0.4215
+54075,Pocahontas County,West Virginia,8.9,0.8185
+54101,Webster County,West Virginia,8.9,0.4696
+02282,Yakutat City and Borough,Alaska,9,0.9612
+04007,Gila County,Arizona,9,0.6689
+05053,Grant County,Arkansas,9,0.2566
+05065,Izard County,Arkansas,9,0.4629
+05087,Madison County,Arkansas,9,0.3792
+12099,Palm Beach County,Florida,9,0.6485
+13001,Appling County,Georgia,9,0.894
+13129,Gordon County,Georgia,9,0.7545
+13205,Mitchell County,Georgia,9,0.9592
+13231,Pike County,Georgia,9,0.0726
+17031,Cook County,Illinois,9,0.8758
+18103,Miami County,Indiana,9,0.5377
+18137,Ripley County,Indiana,9,0.6937
+19065,Fayette County,Iowa,9,0.2155
+19127,Marshall County,Iowa,9,0.7415
+20015,Butler County,Kansas,9,0.6243
+21045,Casey County,Kentucky,9,0.5594
+21053,Clinton County,Kentucky,9,0.7125
+21129,Lee County,Kentucky,9,0.7997
+21169,Metcalfe County,Kentucky,9,0.3133
+21221,Trigg County,Kentucky,9,0.1525
+22041,Franklin Parish,Louisiana,9,0.8854
+22053,Jefferson Davis Parish,Louisiana,9,0.6683
+22059,Lasalle Parish,Louisiana,9,0.6039
+27061,Itasca County,Minnesota,9,0.6921
+27065,Kanabec County,Minnesota,9,0.4534
+27069,Kittson County,Minnesota,9,0.4607
+28069,Kemper County,Mississippi,9,0.9446
+29041,Chariton County,Missouri,9,0.1767
+29047,Clay County,Missouri,9,0.1442
+29101,Johnson County,Missouri,9,0.8036
+29123,Madison County,Missouri,9,0.574
+29127,Marion County,Missouri,9,0.6033
+29165,Platte County,Missouri,9,0.1254
+29195,Saline County,Missouri,9,0.8739
+30041,Hill County,Montana,9,0.6122
+31067,Gage County,Nebraska,9,0.1264
+31081,Hamilton County,Nebraska,9,0.0185
+31127,Nemaha County,Nebraska,9,0.2245
+31161,Sheridan County,Nebraska,9,0.7736
+36011,Cayuga County,New York,9,0.8329
+37197,Yadkin County,North Carolina,9,0.4174
+39019,Carroll County,Ohio,9,0.1697
+39039,Defiance County,Ohio,9,0.1996
+39063,Hancock County,Ohio,9,0.4674
+39083,Knox County,Ohio,9,0.3703
+39165,Warren County,Ohio,9,0.1331
+40011,Blaine County,Oklahoma,9,0.5543
+40073,Kingfisher County,Oklahoma,9,0.128
+42047,Elk County,Pennsylvania,9,0.2015
+42051,Fayette County,Pennsylvania,9,0.7479
+45017,Calhoun County,South Carolina,9,0.4241
+47001,Anderson County,Tennessee,9,0.5664
+47007,Bledsoe County,Tennessee,9,0.8233
+51027,Buchanan County,Virginia,9,0.673
+51073,Gloucester County,Virginia,9,0.0331
+51191,Washington County,Virginia,9,0.3426
+51197,Wythe County,Virginia,9,0.3394
+53003,Asotin County,Washington,9,0.3142
+53071,Walla Walla County,Washington,9,0.9484
+54037,Jefferson County,West Virginia,9,0.2849
+01079,Lawrence County,Alabama,9.1,0.2028
+02060,Bristol Bay Borough,Alaska,9.1,0.887
+05005,Baxter County,Arkansas,9.1,0.3158
+05007,Benton County,Arkansas,9.1,0.3136
+05141,Van Buren County,Arkansas,9.1,0.7342
+06037,Los Angeles County,California,9.1,0.9045
+08101,Pueblo County,Colorado,9.1,0.7937
+12101,Pasco County,Florida,9.1,0.66
+13019,Berrien County,Georgia,9.1,0.4887
+16035,Clearwater County,Idaho,9.1,0.6409
+17093,Kendall County,Illinois,9.1,0.0478
+18107,Montgomery County,Indiana,9.1,0.4234
+18125,Pike County,Indiana,9.1,0.1601
+18135,Randolph County,Indiana,9.1,0.1067
+18183,Whitley County,Indiana,9.1,0.0299
+19011,Benton County,Iowa,9.1,0.0318
+19069,Franklin County,Iowa,9.1,0.0252
+19119,Lyon County,Iowa,9.1,0.0398
+19163,Scott County,Iowa,9.1,0.3591
+20097,Kiowa County,Kansas,9.1,0.4664
+20107,Linn County,Kansas,9.1,0.2082
+21051,Clay County,Kentucky,9.1,0.9898
+21121,Knox County,Kentucky,9.1,0.8173
+22037,East Feliciana Parish,Louisiana,9.1,0.9287
+22089,St. Charles Parish,Louisiana,9.1,0.2436
+23025,Somerset County,Maine,9.1,0.5648
+24003,Anne Arundel County,Maryland,9.1,0.3645
+26031,Cheboygan County,Michigan,9.1,0.1143
+27081,Lincoln County,Minnesota,9.1,0.1009
+27089,Marshall County,Minnesota,9.1,0.2009
+28143,Tunica County,Mississippi,9.1,0.9707
+28157,Wilkinson County,Mississippi,9.1,0.8201
+29005,Atchison County,Missouri,9.1,0.0742
+29117,Livingston County,Missouri,9.1,0.4495
+29213,Taney County,Missouri,9.1,0.9526
+31131,Otoe County,Nebraska,9.1,0.1487
+32510,Carson City,Nevada,9.1,0.9605
+35035,Otero County,New Mexico,9.1,0.8618
+37077,Granville County,North Carolina,9.1,0.517
+37147,Pitt County,North Carolina,9.1,0.9647
+38071,Ramsey County,North Dakota,9.1,0.8695
+38077,Richland County,North Dakota,9.1,0.4865
+38101,Ward County,North Dakota,9.1,0.7361
+39037,Darke County,Ohio,9.1,0.0837
+39161,Van Wert County,Ohio,9.1,0.0369
+42039,Crawford County,Pennsylvania,9.1,0.7412
+42061,Huntingdon County,Pennsylvania,9.1,0.6657
+42087,Mifflin County,Pennsylvania,9.1,0.5097
+42089,Monroe County,Pennsylvania,9.1,0.1194
+42097,Northumberland County,Pennsylvania,9.1,0.7313
+47147,Robertson County,Tennessee,9.1,0.2671
+48423,Smith County,Texas,9.1,0.7252
+51069,Frederick County,Virginia,9.1,0.2302
+51081,Greensville County,Virginia,9.1,0.9567
+51175,Southampton County,Virginia,9.1,0.5584
+53041,Lewis County,Washington,9.1,0.8255
+53049,Pacific County,Washington,9.1,0.5345
+54029,Hancock County,West Virginia,9.1,0.383
+54067,Nicholas County,West Virginia,9.1,0.5759
+55027,Dodge County,Wisconsin,9.1,0.4718
+56021,Laramie County,Wyoming,9.1,0.4031
+02195,Petersburg Borough,Alaska,9.2,0.93
+05135,Sharp County,Arkansas,9.2,0.3365
+12069,Lake County,Florida,9.2,0.5855
+13029,Bryan County,Georgia,9.2,0.0939
+13277,Tift County,Georgia,9.2,0.9561
+18019,Clark County,Indiana,9.2,0.2541
+20053,Ellsworth County,Kansas,9.2,0.7959
+20117,Marshall County,Kansas,9.2,0.1191
+21013,Bell County,Kentucky,9.2,0.9039
+26027,Cass County,Michigan,9.2,0.1633
+26069,Iosco County,Michigan,9.2,0.2977
+27095,Mille Lacs County,Minnesota,9.2,0.8042
+29023,Butler County,Missouri,9.2,0.5998
+29055,Crawford County,Missouri,9.2,0.4276
+30023,Deer Lodge County,Montana,9.2,0.8128
+31001,Adams County,Nebraska,9.2,0.4565
+36023,Cortland County,New York,9.2,0.7969
+36067,Onondaga County,New York,9.2,0.7708
+36107,Tioga County,New York,9.2,0.2725
+37049,Craven County,North Carolina,9.2,0.9054
+37061,Duplin County,North Carolina,9.2,0.767
+37093,Hoke County,North Carolina,9.2,0.5129
+37107,Lenoir County,North Carolina,9.2,0.9672
+37123,Montgomery County,North Carolina,9.2,0.8246
+39033,Crawford County,Ohio,9.2,0.1576
+39107,Mercer County,Ohio,9.2,0.0805
+39143,Sandusky County,Ohio,9.2,0.2324
+39155,Trumbull County,Ohio,9.2,0.3868
+40049,Garvin County,Oklahoma,9.2,0.228
+40123,Pontotoc County,Oklahoma,9.2,0.6402
+41001,Baker County,Oregon,9.2,0.9191
+42017,Bucks County,Pennsylvania,9.2,0.1983
+42121,Venango County,Pennsylvania,9.2,0.4912
+46047,Fall River County,South Dakota,9.2,0.7517
+47071,Hardin County,Tennessee,9.2,0.4394
+48203,Harrison County,Texas,9.2,0.7179
+51005,Alleghany County,Virginia,9.2,0.4381
+51087,Henrico County,Virginia,9.2,0.1945
+51149,Prince George County,Virginia,9.2,0.4136
+54007,Braxton County,West Virginia,9.2,0.7058
+02013,Aleutians East Borough,Alaska,9.3,0.9351
+02198,Prince of Wales-Hyder Census Area,Alaska,9.3,0.8943
+05075,Lawrence County,Arkansas,9.3,0.5613
+08071,Las Animas County,Colorado,9.3,0.8351
+12119,Sumter County,Florida,9.3,0.3104
+13267,Tattnall County,Georgia,9.3,0.9608
+13287,Turner County,Georgia,9.3,0.9666
+17161,Rock Island County,Illinois,9.3,0.7816
+18063,Hendricks County,Indiana,9.3,0.0802
+18093,Lawrence County,Indiana,9.3,0.1917
+18119,Owen County,Indiana,9.3,0.242
+18153,Sullivan County,Indiana,9.3,0.9357
+18167,Vigo County,Indiana,9.3,0.8421
+18179,Wells County,Indiana,9.3,0.1754
+19117,Lucas County,Iowa,9.3,0.248
+20075,Hamilton County,Kansas,9.3,0.0064
+20119,Meade County,Kansas,9.3,0.0866
+21161,Mason County,Kentucky,9.3,0.7237
+21219,Todd County,Kentucky,9.3,0.7612
+22031,De Soto Parish,Louisiana,9.3,0.7128
+22061,Lincoln Parish,Louisiana,9.3,0.9755
+24015,Cecil County,Maryland,9.3,0.4454
+26127,Oceana County,Michigan,9.3,0.7281
+28021,Claiborne County,Mississippi,9.3,1
+29033,Carroll County,Missouri,9.3,0.3687
+29075,Gentry County,Missouri,9.3,0.4635
+29177,Ray County,Missouri,9.3,0.1901
+32033,White Pine County,Nevada,9.3,0.4935
+34021,Mercer County,New Jersey,9.3,0.8672
+35057,Torrance County,New Mexico,9.3,0.5486
+36093,Schenectady County,New York,9.3,0.6135
+37073,Gates County,North Carolina,9.3,0.1372
+38073,Ransom County,North Dakota,9.3,0.2798
+39007,Ashtabula County,Ohio,9.3,0.844
+40087,Mcclain County,Oklahoma,9.3,0.0691
+40119,Payne County,Oklahoma,9.3,0.9573
+42075,Lebanon County,Pennsylvania,9.3,0.6135
+42085,Mercer County,Pennsylvania,9.3,0.8446
+42133,York County,Pennsylvania,9.3,0.3862
+47171,Unicoi County,Tennessee,9.3,0.5317
+49003,Box Elder County,Utah,9.3,0.0958
+49007,Carbon County,Utah,9.3,0.5619
+50011,Franklin County,Vermont,9.3,0.2598
+51029,Buckingham County,Virginia,9.3,0.7488
+51155,Pulaski County,Virginia,9.3,0.5753
+51193,Westmoreland County,Virginia,9.3,0.0761
+51199,York County,Virginia,9.3,0.1538
+54015,Clay County,West Virginia,9.3,0.4651
+54041,Lewis County,West Virginia,9.3,0.8475
+55105,Rock County,Wisconsin,9.3,0.3814
+56031,Platte County,Wyoming,9.3,0.036
+01011,Bullock County,Alabama,9.4,0.765
+01057,Fayette County,Alabama,9.4,0.5454
+01103,Morgan County,Alabama,9.4,0.5775
+04015,Mohave County,Arizona,9.4,0.851
+04023,Santa Cruz County,Arizona,9.4,0.4448
+05029,Conway County,Arkansas,9.4,0.5393
+06039,Madera County,California,9.4,0.8239
+06099,Stanislaus County,California,9.4,0.6043
+10005,Sussex County,Delaware,9.4,0.4247
+13039,Camden County,Georgia,9.4,0.6823
+13299,Ware County,Georgia,9.4,0.9029
+16011,Bingham County,Idaho,9.4,0.1961
+16019,Bonneville County,Idaho,9.4,0.377
+18043,Floyd County,Indiana,9.4,0.205
+18079,Jennings County,Indiana,9.4,0.3734
+20155,Reno County,Kansas,9.4,0.7947
+20191,Sumner County,Kansas,9.4,0.2404
+21191,Pendleton County,Kentucky,9.4,0.3177
+24047,Worcester County,Maryland,9.4,0.5193
+26159,Van Buren County,Michigan,9.4,0.6842
+31087,Hitchcock County,Nebraska,9.4,0.1372
+35013,Doña Ana County,New Mexico,9.4,0.9723
+35039,Rio Arriba County,New Mexico,9.4,0.5409
+36003,Allegany County,New York,9.4,0.829
+36047,Kings County,New York,9.4,0.9096
+36051,Livingston County,New York,9.4,0.8278
+36105,Sullivan County,New York,9.4,0.8962
+37025,Cabarrus County,North Carolina,9.4,0.3633
+39047,Fayette County,Ohio,9.4,0.1662
+39089,Licking County,Ohio,9.4,0.2579
+39111,Monroe County,Ohio,9.4,0.3349
+39175,Wyandot County,Ohio,9.4,0.1477
+40009,Beckham County,Oklahoma,9.4,0.9468
+40071,Kay County,Oklahoma,9.4,0.6953
+40075,Kiowa County,Oklahoma,9.4,0.1786
+41009,Columbia County,Oregon,9.4,0.3954
+42125,Washington County,Pennsylvania,9.4,0.4868
+46013,Brown County,South Dakota,9.4,0.758
+47051,Franklin County,Tennessee,9.4,0.2381
+47121,Meigs County,Tennessee,9.4,0.2299
+51047,Culpeper County,Virginia,9.4,0.5718
+51099,King George County,Virginia,9.4,0.0089
+51101,King William County,Virginia,9.4,0.0076
+51167,Russell County,Virginia,9.4,0.2646
+51171,Shenandoah County,Virginia,9.4,0.2595
+54031,Hardy County,West Virginia,9.4,0.07
+54083,Randolph County,West Virginia,9.4,0.8545
+55087,Outagamie County,Wisconsin,9.4,0.2229
+01001,Autauga County,Alabama,9.5,0.3741
+01037,Coosa County,Alabama,9.5,0.2913
+01059,Franklin County,Alabama,9.5,0.5275
+04027,Yuma County,Arizona,9.5,0.9796
+05129,Searcy County,Arkansas,9.5,0.2623
+05149,Yell County,Arkansas,9.5,0.5521
+06025,Imperial County,California,9.5,0.9869
+10003,New Castle County,Delaware,9.5,0.5562
+12111,St. Lucie County,Florida,9.5,0.4941
+12131,Walton County,Florida,9.5,0.9503
+13075,Cook County,Georgia,9.5,0.5158
+13255,Spalding County,Georgia,9.5,0.724
+16031,Cassia County,Idaho,9.5,0.4658
+17029,Coles County,Illinois,9.5,0.7631
+17091,Kankakee County,Illinois,9.5,0.7596
+18067,Howard County,Indiana,9.5,0.2509
+18141,St. Joseph County,Indiana,9.5,0.7157
+18163,Vanderburgh County,Indiana,9.5,0.7096
+19051,Davis County,Iowa,9.5,0.5918
+19109,Kossuth County,Iowa,9.5,0.0968
+21001,Adair County,Kentucky,9.5,0.9303
+21021,Boyle County,Kentucky,9.5,0.4155
+21229,Washington County,Kentucky,9.5,0.3486
+22015,Bossier Parish,Louisiana,9.5,0.6635
+22077,Pointe Coupee Parish,Louisiana,9.5,0.6024
+22099,St. Martin Parish,Louisiana,9.5,0.5053
+22121,West Baton Rouge Parish,Louisiana,9.5,0.9424
+22127,Winn Parish,Louisiana,9.5,0.6651
+26077,Kalamazoo County,Michigan,9.5,0.6947
+26133,Osceola County,Michigan,9.5,0.7724
+28075,Lauderdale County,Mississippi,9.5,0.9688
+28119,Quitman County,Mississippi,9.5,0.8013
+28121,Rankin County,Mississippi,9.5,0.5823
+29111,Lewis County,Missouri,9.5,0.7771
+30017,Custer County,Montana,9.5,0.6593
+30087,Rosebud County,Montana,9.5,0.4409
+31013,Box Butte County,Nebraska,9.5,0.4744
+31055,Douglas County,Nebraska,9.5,0.6606
+34015,Gloucester County,New Jersey,9.5,0.2286
+35033,Mora County,New Mexico,9.5,0.4785
+36019,Clinton County,New York,9.5,0.9061
+37113,Macon County,North Carolina,9.5,0.2232
+37157,Rockingham County,North Carolina,9.5,0.7351
+37171,Surry County,North Carolina,9.5,0.7014
+38061,Mountrail County,North Dakota,9.5,0.7784
+39015,Brown County,Ohio,9.5,0.3671
+39017,Butler County,Ohio,9.5,0.4505
+39059,Guernsey County,Ohio,9.5,0.6132
+39129,Pickaway County,Ohio,9.5,0.3655
+40099,Murray County,Oklahoma,9.5,0.6262
+41059,Umatilla County,Oregon,9.5,0.9901
+41061,Union County,Oregon,9.5,0.929
+42021,Cambria County,Pennsylvania,9.5,0.667
+42041,Cumberland County,Pennsylvania,9.5,0.4712
+42107,Schuylkill County,Pennsylvania,9.5,0.4715
+48373,Polk County,Texas,9.5,0.9319
+49015,Emery County,Utah,9.5,0.1999
+51105,Lee County,Virginia,9.5,0.7787
+51121,Montgomery County,Virginia,9.5,0.8402
+51131,Northampton County,Virginia,9.5,0.5514
+51163,Rockbridge County,Virginia,9.5,0.079
+51810,Virginia Beach City,Virginia,9.5,0.2308
+53009,Clallam County,Washington,9.5,0.7552
+55079,Milwaukee County,Wisconsin,9.5,0.8529
+05039,Dallas County,Arkansas,9.6,0.7421
+05071,Johnson County,Arkansas,9.6,0.7625
+05079,Lincoln County,Arkansas,9.6,0.9873
+05099,Nevada County,Arkansas,9.6,0.8227
+06019,Fresno County,California,9.6,0.844
+06065,Riverside County,California,9.6,0.6632
+06101,Sutter County,California,9.6,0.6654
+09015,Windham County,Connecticut,9.6,0.5428
+12009,Brevard County,Florida,9.6,0.3489
+13073,Columbia County,Georgia,9.6,0.0357
+13081,Crisp County,Georgia,9.6,0.9475
+17199,Williamson County,Illinois,9.6,0.4741
+18005,Bartholomew County,Indiana,9.6,0.4107
+18059,Hancock County,Indiana,9.6,0.0271
+18155,Switzerland County,Indiana,9.6,0.454
+18157,Tippecanoe County,Indiana,9.6,0.8424
+20013,Brown County,Kansas,9.6,0.1232
+20189,Stevens County,Kansas,9.6,0.5081
+21005,Anderson County,Kentucky,9.6,0.0564
+21183,Ohio County,Kentucky,9.6,0.2101
+21207,Russell County,Kentucky,9.6,0.674
+22039,Evangeline Parish,Louisiana,9.6,0.9694
+22065,Madison Parish,Louisiana,9.6,0.9917
+26091,Lenawee County,Michigan,9.6,0.4206
+28041,Greene County,Mississippi,9.6,0.6867
+28091,Marion County,Mississippi,9.6,0.9179
+31079,Hall County,Nebraska,9.6,0.5909
+31151,Saline County,Nebraska,9.6,0.5339
+35029,Luna County,New Mexico,9.6,0.9768
+35061,Valencia County,New Mexico,9.6,0.5492
+36089,St. Lawrence County,New York,9.6,0.943
+37017,Bladen County,North Carolina,9.6,0.7555
+37065,Edgecombe County,North Carolina,9.6,0.9089
+37097,Iredell County,North Carolina,9.6,0.3069
+37181,Vance County,North Carolina,9.6,0.9172
+37195,Wilson County,North Carolina,9.6,0.8644
+38091,Steele County,North Dakota,9.6,0.0105
+38097,Traill County,North Dakota,9.6,0.3521
+39067,Harrison County,Ohio,9.6,0.4753
+40027,Cleveland County,Oklahoma,9.6,0.645
+40037,Creek County,Oklahoma,9.6,0.4406
+40095,Marshall County,Oklahoma,9.6,0.4887
+47117,Marshall County,Tennessee,9.6,0.2996
+51065,Fluvanna County,Virginia,9.6,0.0528
+51143,Pittsylvania County,Virginia,9.6,0.419
+51173,Smyth County,Virginia,9.6,0.83
+53027,Grays Harbor County,Washington,9.6,0.8972
+54063,Monroe County,West Virginia,9.6,0.1617
+54093,Tucker County,West Virginia,9.6,0.411
+01093,Marion County,Alabama,9.7,0.4209
+05085,Lonoke County,Arkansas,9.7,0.2334
+05101,Newton County,Arkansas,9.7,0.1506
+13009,Baldwin County,Georgia,9.7,0.9494
+13035,Butts County,Georgia,9.7,0.8319
+13051,Chatham County,Georgia,9.7,0.8208
+13135,Gwinnett County,Georgia,9.7,0.2337
+13177,Lee County,Georgia,9.7,0.3101
+13227,Pickens County,Georgia,9.7,0.319
+16083,Twin Falls County,Idaho,9.7,0.3203
+18025,Crawford County,Indiana,9.7,0.27
+18111,Newton County,Indiana,9.7,0.042
+19099,Jasper County,Iowa,9.7,0.5629
+19145,Page County,Iowa,9.7,0.4333
+20063,Gove County,Kansas,9.7,0.0589
+21173,Montgomery County,Kentucky,9.7,0.7065
+21225,Union County,Kentucky,9.7,0.3792
+22087,St. Bernard Parish,Louisiana,9.7,0.1888
+24025,Harford County,Maryland,9.7,0.1394
+26075,Jackson County,Michigan,9.7,0.7599
+28031,Covington County,Mississippi,9.7,0.2579
+28105,Oktibbeha County,Mississippi,9.7,0.886
+30073,Pondera County,Montana,9.7,0.8803
+32021,Mineral County,Nevada,9.7,0.8663
+33017,Strafford County,New Hampshire,9.7,0.8029
+36029,Erie County,New York,9.7,0.6355
+36097,Schuyler County,New York,9.7,0.5654
+36099,Seneca County,New York,9.7,0.6832
+37069,Franklin County,North Carolina,9.7,0.6052
+38035,Grand Forks County,North Dakota,9.7,0.8816
+39043,Erie County,Ohio,9.7,0.2783
+39073,Hocking County,Ohio,9.7,0.5868
+40017,Canadian County,Oklahoma,9.7,0.3053
+40117,Pawnee County,Oklahoma,9.7,0.4056
+45091,York County,South Carolina,9.7,0.3547
+47167,Tipton County,Tennessee,9.7,0.1429
+48041,Brazos County,Texas,9.7,0.914
+48213,Henderson County,Texas,9.7,0.618
+48401,Rusk County,Texas,9.7,0.7803
+48473,Waller County,Texas,9.7,0.9265
+49037,San Juan County,Utah,9.7,0.88
+51025,Brunswick County,Virginia,9.7,0.7415
+51111,Lunenburg County,Virginia,9.7,0.9449
+54065,Morgan County,West Virginia,9.7,0.1337
+01067,Henry County,Alabama,9.8,0.2713
+01077,Lauderdale County,Alabama,9.8,0.5622
+01095,Marshall County,Alabama,9.8,0.3149
+05055,Greene County,Arkansas,9.8,0.3843
+12057,Hillsborough County,Florida,9.8,0.8099
+13139,Hall County,Georgia,9.8,0.6527
+13297,Walton County,Georgia,9.8,0.0328
+16005,Bannock County,Idaho,9.8,0.6753
+18085,Kosciusko County,Indiana,9.8,0.6202
+18127,Porter County,Indiana,9.8,0.2273
+18149,Starke County,Indiana,9.8,0.0971
+18159,Tipton County,Indiana,9.8,0.0452
+19085,Harrison County,Iowa,9.8,0.135
+20037,Crawford County,Kansas,9.8,0.9586
+21073,Franklin County,Kentucky,9.8,0.7332
+22011,Beauregard Parish,Louisiana,9.8,0.3871
+23019,Penobscot County,Maine,9.8,0.8612
+27023,Chippewa County,Minnesota,9.8,0.4575
+28071,Lafayette County,Mississippi,9.8,0.8214
+29031,Cape Girardeau County,Missouri,9.8,0.7275
+29095,Jackson County,Missouri,9.8,0.5479
+29099,Jefferson County,Missouri,9.8,0.1547
+31111,Lincoln County,Nebraska,9.8,0.7491
+31123,Morrill County,Nebraska,9.8,0.1172
+35005,Chaves County,New Mexico,9.8,0.7972
+36013,Chautauqua County,New York,9.8,0.7921
+36085,Richmond County,New York,9.8,0.8067
+42033,Clearfield County,Pennsylvania,9.8,0.73
+44007,Providence County,Rhode Island,9.8,0.8832
+45063,Lexington County,South Carolina,9.8,0.4693
+47045,Dyer County,Tennessee,9.8,0.3951
+47069,Hardeman County,Tennessee,9.8,0.6718
+47105,Loudon County,Tennessee,9.8,0.3407
+47115,Marion County,Tennessee,9.8,0.2923
+48027,Bell County,Texas,9.8,0.8405
+48039,Brazoria County,Texas,9.8,0.7867
+48497,Wise County,Texas,9.8,0.4903
+51550,Chesapeake City,Virginia,9.8,0.2544
+54057,Mineral County,West Virginia,9.8,0.4731
+54061,Monongalia County,West Virginia,9.8,0.992
+54079,Putnam County,West Virginia,9.8,0.1159
+01081,Lee County,Alabama,9.9,0.9214
+02290,Yukon-Koyukuk Census Area,Alaska,9.9,0.7762
+04012,La Paz County,Arizona,9.9,0.7514
+05003,Ashley County,Arkansas,9.9,0.49
+05143,Washington County,Arkansas,9.9,0.8825
+06077,San Joaquin County,California,9.9,0.8083
+13315,Wilcox County,Georgia,9.9,0.7628
+18071,Jackson County,Indiana,9.9,0.3722
+21069,Fleming County,Kentucky,9.9,0.4989
+21237,Wolfe County,Kentucky,9.9,0.5606
+23021,Piscataquis County,Maine,9.9,0.297
+24005,Baltimore County,Maryland,9.9,0.618
+24009,Calvert County,Maryland,9.9,0.0146
+26117,Montcalm County,Michigan,9.9,0.7233
+26165,Wexford County,Michigan,9.9,0.3945
+27105,Nobles County,Minnesota,9.9,0.7533
+27127,Redwood County,Minnesota,9.9,0.2827
+28007,Attala County,Mississippi,9.9,0.9239
+28023,Clarke County,Mississippi,9.9,0.1156
+28101,Newton County,Mississippi,9.9,0.8383
+29113,Lincoln County,Missouri,9.9,0.276
+35009,Curry County,New Mexico,9.9,0.5692
+36121,Wyoming County,New York,9.9,0.4683
+37045,Cleveland County,North Carolina,9.9,0.7654
+38105,Williams County,North Dakota,9.9,0.8309
+39035,Cuyahoga County,Ohio,9.9,0.6332
+40115,Ottawa County,Oklahoma,9.9,0.9166
+42001,Adams County,Pennsylvania,9.9,0.2789
+45077,Pickens County,South Carolina,9.9,0.9175
+47031,Coffee County,Tennessee,9.9,0.3429
+47073,Hawkins County,Tennessee,9.9,0.6167
+47089,Jefferson County,Tennessee,9.9,0.6288
+47093,Knox County,Tennessee,9.9,0.5244
+47099,Lawrence County,Tennessee,9.9,0.5438
+47151,Scott County,Tennessee,9.9,0.4005
+48021,Bastrop County,Texas,9.9,0.8032
+51041,Chesterfield County,Virginia,9.9,0.0898
+01113,Russell County,Alabama,10,0.7768
+05001,Arkansas County,Arkansas,10,0.5368
+05077,Lee County,Arkansas,10,0.9077
+05109,Pike County,Arkansas,10,0.4572
+12001,Alachua County,Florida,10,0.8937
+12045,Gulf County,Florida,10,0.4352
+12053,Hernando County,Florida,10,0.213
+13107,Emanuel County,Georgia,10,0.8771
+13233,Polk County,Georgia,10,0.4511
+13279,Toombs County,Georgia,10,0.9223
+18039,Elkhart County,Indiana,10,0.7966
+20177,Shawnee County,Kansas,10,0.7755
+20205,Wilson County,Kansas,10,0.6514
+21135,Lewis County,Kentucky,10,0.3986
+21163,Meade County,Kentucky,10,0.426
+22001,Acadia Parish,Louisiana,10,0.759
+24023,Garrett County,Maryland,10,0.3582
+28009,Benton County,Mississippi,10,0.1203
+28111,Perry County,Mississippi,10,0.4196
+29181,Ripley County,Missouri,10,0.3432
+32003,Clark County,Nevada,10,0.7443
+33007,Coos County,New Hampshire,10,0.6979
+37101,Johnston County,North Carolina,10,0.2401
+37117,Martin County,North Carolina,10,0.1955
+37131,Northampton County,North Carolina,10,0.6294
+37133,Onslow County,North Carolina,10,0.8017
+37187,Washington County,North Carolina,10,0.5033
+39097,Madison County,Ohio,10,0.5291
+40133,Seminole County,Oklahoma,10,0.7841
+45045,Greenville County,South Carolina,10,0.7326
+47047,Fayette County,Tennessee,10,0.0885
+47081,Hickman County,Tennessee,10,0.561
+48251,Johnson County,Texas,10,0.5431
+48363,Palo Pinto County,Texas,10,0.7491
+51067,Franklin County,Virginia,10,0.4667
+53021,Franklin County,Washington,10,0.7813
+55078,Menominee County,Wisconsin,10,0.5103
+13031,Bulloch County,Georgia,10.1,0.9583
+13145,Harris County,Georgia,10.1,0.0519
+13247,Rockdale County,Georgia,10.1,0.1627
+13251,Screven County,Georgia,10.1,0.8959
+13305,Wayne County,Georgia,10.1,0.9752
+18075,Jay County,Indiana,10.1,0.6348
+19057,Des Moines County,Iowa,10.1,0.3964
+20125,Montgomery County,Kansas,10.1,0.6571
+21089,Greenup County,Kentucky,10.1,0.1544
+22103,St. Tammany Parish,Louisiana,10.1,0.1818
+26041,Delta County,Michigan,10.1,0.4807
+26113,Missaukee County,Michigan,10.1,0.2802
+28015,Carroll County,Mississippi,10.1,0.4906
+28047,Harrison County,Mississippi,10.1,0.8637
+28137,Tate County,Mississippi,10.1,0.8768
+34005,Burlington County,New Jersey,10.1,0.3193
+36045,Jefferson County,New York,10.1,0.9207
+36115,Washington County,New York,10.1,0.6361
+37067,Forsyth County,North Carolina,10.1,0.7835
+39115,Morgan County,Ohio,10.1,0.3827
+40153,Woodward County,Oklahoma,10.1,0.6495
+47013,Campbell County,Tennessee,10.1,0.611
+47109,Mcnairy County,Tennessee,10.1,0.347
+47111,Macon County,Tennessee,10.1,0.3566
+48487,Wilbarger County,Texas,10.1,0.8577
+51159,Richmond County,Virginia,10.1,0.9341
+53053,Pierce County,Washington,10.1,0.7046
+01007,Bibb County,Alabama,10.2,0.7189
+01133,Winston County,Alabama,10.2,0.5084
+05043,Drew County,Arkansas,10.2,0.9456
+05051,Garland County,Arkansas,10.2,0.8313
+06107,Tulare County,California,10.2,0.6371
+12007,Bradford County,Florida,10.2,0.9927
+13087,Decatur County,Georgia,10.2,0.9806
+13091,Dodge County,Georgia,10.2,0.9602
+13285,Troup County,Georgia,10.2,0.7838
+16027,Canyon County,Idaho,10.2,0.4082
+18003,Allen County,Indiana,10.2,0.3878
+20085,Jackson County,Kansas,10.2,0.0987
+21067,Fayette County,Kentucky,10.2,0.7701
+21127,Lawrence County,Kentucky,10.2,0.5727
+21165,Menifee County,Kentucky,10.2,0.4314
+22009,Avoyelles Parish,Louisiana,10.2,0.9663
+26099,Macomb County,Michigan,10.2,0.313
+28003,Alcorn County,Mississippi,10.2,0.2483
+28017,Chickasaw County,Mississippi,10.2,0.7163
+28065,Jefferson Davis County,Mississippi,10.2,0.5113
+28103,Noxubee County,Mississippi,10.2,0.9685
+28129,Smith County,Mississippi,10.2,0.1942
+28141,Tishomingo County,Mississippi,10.2,0.4826
+32023,Nye County,Nevada,10.2,0.5664
+37041,Chowan County,North Carolina,10.2,0.7173
+39057,Greene County,Ohio,10.2,0.3817
+39101,Marion County,Ohio,10.2,0.7459
+40013,Bryan County,Oklahoma,10.2,0.8465
+40143,Tulsa County,Oklahoma,10.2,0.5963
+45019,Charleston County,South Carolina,10.2,0.7122
+45065,Mccormick County,South Carolina,10.2,0.54
+45073,Oconee County,South Carolina,10.2,0.6278
+47155,Sevier County,Tennessee,10.2,0.5056
+47163,Sullivan County,Tennessee,10.2,0.6049
+48055,Caldwell County,Texas,10.2,0.9631
+48225,Houston County,Texas,10.2,0.958
+48469,Victoria County,Texas,10.2,0.7466
+51161,Roanoke County,Virginia,10.2,0.2416
+54047,Mcdowell County,West Virginia,10.2,0.9255
+54071,Pendleton County,West Virginia,10.2,0.2512
+54087,Roane County,West Virginia,10.2,0.398
+54097,Upshur County,West Virginia,10.2,0.8669
+56003,Big Horn County,Wyoming,10.2,0.2283
+01109,Pike County,Alabama,10.3,0.9233
+05045,Faulkner County,Arkansas,10.3,0.7568
+12065,Jefferson County,Florida,10.3,0.4979
+12091,Okaloosa County,Florida,10.3,0.6313
+18041,Fayette County,Indiana,10.3,0.5883
+20031,Coffey County,Kansas,10.3,0.2627
+20049,Elk County,Kansas,10.3,0.1681
+20057,Ford County,Kansas,10.3,0.7972
+21037,Campbell County,Kentucky,10.3,0.6778
+21117,Kenton County,Kentucky,10.3,0.4343
+22083,Richland Parish,Louisiana,10.3,0.8513
+23001,Androscoggin County,Maine,10.3,0.8806
+26145,Saginaw County,Michigan,10.3,0.6399
+28077,Lawrence County,Mississippi,10.3,0.2926
+29201,Scott County,Missouri,10.3,0.6017
+34023,Middlesex County,New Jersey,10.3,0.907
+36017,Chenango County,New York,10.3,0.7571
+37081,Guilford County,North Carolina,10.3,0.7619
+39151,Stark County,Ohio,10.3,0.3846
+39153,Summit County,Ohio,10.3,0.4037
+41013,Crook County,Oregon,10.3,0.3792
+41047,Marion County,Oregon,10.3,0.9274
+42065,Jefferson County,Pennsylvania,10.3,0.4594
+47177,Warren County,Tennessee,10.3,0.4397
+51760,Richmond City,Virginia,10.3,0.879
+54051,Marshall County,West Virginia,10.3,0.2385
+01065,Hale County,Alabama,10.4,0.9347
+05019,Clark County,Arkansas,10.4,0.9764
+05091,Miller County,Arkansas,10.4,0.9822
+05139,Union County,Arkansas,10.4,0.503
+12029,Dixie County,Florida,10.4,0.9904
+12113,Santa Rosa County,Florida,10.4,0.4225
+12127,Volusia County,Florida,10.4,0.5205
+13033,Burke County,Georgia,10.4,0.6613
+13071,Colquitt County,Georgia,10.4,0.9491
+15003,Honolulu County,Hawaii,10.4,0.965
+20009,Barton County,Kansas,10.4,0.3063
+20133,Neosho County,Kansas,10.4,0.6702
+21177,Muhlenberg County,Kentucky,10.4,0.4791
+22029,Concordia Parish,Louisiana,10.4,0.9653
+22047,Iberville Parish,Louisiana,10.4,0.9564
+28093,Marshall County,Mississippi,10.4,0.5368
+31043,Dakota County,Nebraska,10.4,0.8055
+36015,Chemung County,New York,10.4,0.6899
+36057,Montgomery County,New York,10.4,0.7138
+37169,Stokes County,North Carolina,10.4,0.1643
+39049,Franklin County,Ohio,10.4,0.6699
+39095,Lucas County,Ohio,10.4,0.5957
+40063,Hughes County,Oklahoma,10.4,0.5514
+40089,Mccurtain County,Oklahoma,10.4,0.6345
+40121,Pittsburg County,Oklahoma,10.4,0.7698
+41071,Yamhill County,Oregon,10.4,0.8902
+45087,Union County,South Carolina,10.4,0.7205
+47143,Rhea County,Tennessee,10.4,0.5005
+47179,Washington County,Tennessee,10.4,0.7268
+48201,Harris County,Texas,10.4,0.6014
+51015,Augusta County,Virginia,10.4,0.2869
+51117,Mecklenburg County,Virginia,10.4,0.7265
+54003,Berkeley County,West Virginia,10.4,0.3286
+54109,Wyoming County,West Virginia,10.4,0.4502
+55001,Adams County,Wisconsin,10.4,0.6275
+01009,Blount County,Alabama,10.5,0.1741
+01019,Cherokee County,Alabama,10.5,0.2741
+01071,Jackson County,Alabama,10.5,0.3231
+05059,Hot Spring County,Arkansas,10.5,0.8462
+06029,Kern County,California,10.5,0.9245
+06031,Kings County,California,10.5,0.9363
+12019,Clay County,Florida,10.5,0.2206
+12055,Highlands County,Florida,10.5,0.8001
+18035,Delaware County,Indiana,10.5,0.7011
+18173,Warrick County,Indiana,10.5,0.1605
+18181,White County,Indiana,10.5,0.0688
+20099,Labette County,Kansas,10.5,0.602
+21015,Boone County,Kentucky,10.5,0.0977
+22095,St. John The Baptist Parish,Louisiana,10.5,0.4916
+26049,Genesee County,Michigan,10.5,0.4585
+28039,George County,Mississippi,10.5,0.3298
+28073,Lamar County,Mississippi,10.5,0.3919
+34013,Essex County,New Jersey,10.5,0.9411
+35047,San Miguel County,New Mexico,10.5,0.9128
+36037,Genesee County,New York,10.5,0.2773
+39003,Allen County,Ohio,10.5,0.5954
+39009,Athens County,Ohio,10.5,0.9952
+39023,Clark County,Ohio,10.5,0.5848
+39119,Muskingum County,Ohio,10.5,0.6326
+39171,Williams County,Ohio,10.5,0.2369
+40079,Le Flore County,Oklahoma,10.5,0.6428
+47149,Rutherford County,Tennessee,10.5,0.2824
+51185,Tazewell County,Virginia,10.5,0.6845
+54053,Mason County,West Virginia,10.5,0.7154
+54089,Summers County,West Virginia,10.5,0.8746
+01115,St. Clair County,Alabama,10.6,0.2502
+01123,Tallapoosa County,Alabama,10.6,0.8685
+05057,Hempstead County,Arkansas,10.6,0.6861
+12033,Escambia County,Florida,10.6,0.6896
+12041,Gilchrist County,Florida,10.6,0.5314
+12067,Lafayette County,Florida,10.6,0.9975
+12093,Okeechobee County,Florida,10.6,0.8704
+16073,Owyhee County,Idaho,10.6,0.3731
+19179,Wapello County,Iowa,10.6,0.7752
+19185,Wayne County,Iowa,10.6,0.5422
+20027,Clay County,Kansas,10.6,0.0532
+22005,Ascension Parish,Louisiana,10.6,0.2658
+22071,Orleans Parish,Louisiana,10.6,0.7771
+22119,Webster Parish,Louisiana,10.6,0.9134
+24037,St. Mary&#39;s County,Maryland,10.6,0.3333
+26149,St. Joseph County,Michigan,10.6,0.5756
+28005,Amite County,Mississippi,10.6,0.3926
+28117,Prentiss County,Mississippi,10.6,0.8109
+31047,Dawson County,Nebraska,10.6,0.7475
+34001,Atlantic County,New Jersey,10.6,0.8812
+36081,Queens County,New York,10.6,0.8478
+36101,Steuben County,New York,10.6,0.6055
+36123,Yates County,New York,10.6,0.8691
+37031,Carteret County,North Carolina,10.6,0.5151
+37047,Columbus County,North Carolina,10.6,0.9007
+38067,Pembina County,North Dakota,10.6,0.1385
+40001,Adair County,Oklahoma,10.6,0.5571
+45021,Cherokee County,South Carolina,10.6,0.4725
+47065,Hamilton County,Tennessee,10.6,0.5887
+47119,Maury County,Tennessee,10.6,0.3792
+48029,Bexar County,Texas,10.6,0.781
+48139,Ellis County,Texas,10.6,0.3617
+48167,Galveston County,Texas,10.6,0.6788
+51053,Dinwiddie County,Virginia,10.6,0.2362
+51770,Roanoke City,Virginia,10.6,0.7431
+54025,Greenbrier County,West Virginia,10.6,0.5021
+01041,Crenshaw County,Alabama,10.7,0.2353
+01089,Madison County,Alabama,10.7,0.3836
+05033,Crawford County,Arkansas,10.7,0.2951
+12005,Bay County,Florida,10.7,0.7144
+13193,Macon County,Georgia,10.7,0.9201
+18017,Cass County,Indiana,10.7,0.5088
+20173,Sedgwick County,Kansas,10.7,0.4588
+21131,Leslie County,Kentucky,10.7,0.8911
+28097,Montgomery County,Mississippi,10.7,0.3508
+29081,Harrison County,Missouri,10.7,0.4002
+31121,Merrick County,Nebraska,10.7,0.5587
+34011,Cumberland County,New Jersey,10.7,0.9844
+39025,Clermont County,Ohio,10.7,0.2053
+39065,Hardin County,Ohio,10.7,0.7093
+40041,Delaware County,Oklahoma,10.7,0.4117
+45003,Aiken County,South Carolina,10.7,0.5199
+45037,Edgefield County,South Carolina,10.7,0.9013
+45047,Greenwood County,South Carolina,10.7,0.8787
+45079,Richland County,South Carolina,10.7,0.8211
+47107,Mcminn County,Tennessee,10.7,0.4728
+47157,Shelby County,Tennessee,10.7,0.6972
+48277,Lamar County,Texas,10.7,0.6902
+51670,Hopewell City,Virginia,10.7,0.6523
+53015,Cowlitz County,Washington,10.7,0.7555
+05119,Pulaski County,Arkansas,10.8,0.631
+12105,Polk County,Florida,10.8,0.9013
+13047,Catoosa County,Georgia,10.8,0.0678
+13097,Douglas County,Georgia,10.8,0.2267
+13169,Jones County,Georgia,10.8,0.134
+13213,Murray County,Georgia,10.8,0.305
+20011,Bourbon County,Kansas,10.8,0.7249
+21059,Daviess County,Kentucky,10.8,0.7071
+21081,Grant County,Kentucky,10.8,0.6087
+21147,Mccreary County,Kentucky,10.8,0.9144
+22111,Union Parish,Louisiana,10.8,0.8647
+28115,Pontotoc County,Mississippi,10.8,0.5123
+28149,Warren County,Mississippi,10.8,0.8354
+29077,Greene County,Missouri,10.8,0.8087
+31157,Scotts Bluff County,Nebraska,10.8,0.2878
+36063,Niagara County,New York,10.8,0.4645
+36117,Wayne County,New York,10.8,0.4183
+39029,Columbiana County,Ohio,10.8,0.7023
+39139,Richland County,Ohio,10.8,0.7303
+40147,Washington County,Oklahoma,10.8,0.3311
+45051,Horry County,South Carolina,10.8,0.5734
+47025,Claiborne County,Tennessee,10.8,0.6094
+49047,Uintah County,Utah,10.8,0.5043
+54043,Lincoln County,West Virginia,10.8,0.4823
+01013,Butler County,Alabama,10.9,0.6259
+01107,Pickens County,Alabama,10.9,0.8163
+05037,Cross County,Arkansas,10.9,0.4432
+12121,Suwannee County,Florida,10.9,0.9312
+13093,Dooly County,Georgia,10.9,0.8727
+18109,Morgan County,Indiana,10.9,0.2149
+20001,Allen County,Kansas,10.9,0.4152
+22045,Iberia Parish,Louisiana,10.9,0.901
+24017,Charles County,Maryland,10.9,0.1283
+28035,Forrest County,Mississippi,10.9,0.9599
+29027,Callaway County,Missouri,10.9,0.483
+42005,Armstrong County,Pennsylvania,10.9,0.2614
+45027,Clarendon County,South Carolina,10.9,0.9615
+48439,Tarrant County,Texas,10.9,0.4464
+51019,Bedford County,Virginia,10.9,0.1194
+51590,Danville City,Virginia,10.9,0.8841
+53077,Yakima County,Washington,10.9,0.7915
+54091,Taylor County,West Virginia,10.9,0.5855
+01023,Choctaw County,Alabama,11,0.5775
+01043,Cullman County,Alabama,11,0.3945
+01111,Randolph County,Alabama,11,0.8157
+04009,Graham County,Arizona,11,0.9854
+05031,Craighead County,Arkansas,11,0.9058
+05121,Randolph County,Arkansas,11,0.4858
+05131,Sebastian County,Arkansas,11,0.6998
+18083,Knox County,Indiana,11,0.7638
+21093,Hardin County,Kentucky,11,0.6625
+21109,Jackson County,Kentucky,11,0.3276
+24001,Allegany County,Maryland,11,0.752
+26163,Wayne County,Michigan,11,0.6587
+36049,Lewis County,New York,11,0.1875
+39081,Jefferson County,Ohio,11,0.5626
+39173,Wood County,Ohio,11,0.4995
+40109,Oklahoma County,Oklahoma,11,0.6765
+41011,Coos County,Oregon,11,0.8914
+45035,Dorchester County,South Carolina,11,0.3378
+54011,Cabell County,West Virginia,11,0.808
+01049,Dekalb County,Alabama,11.1,0.4779
+01061,Geneva County,Alabama,11.1,0.2716
+05103,Ouachita County,Arkansas,11.1,0.6816
+06071,San Bernardino County,California,11.1,0.8141
+12027,Desoto County,Florida,11.1,0.9643
+12097,Osceola County,Florida,11.1,0.5501
+12123,Taylor County,Florida,11.1,0.9815
+13179,Liberty County,Georgia,11.1,0.9195
+18055,Greene County,Indiana,11.1,0.4378
+20021,Cherokee County,Kansas,11.1,0.219
+20103,Leavenworth County,Kansas,11.1,0.3308
+21083,Graves County,Kentucky,11.1,0.5801
+22007,Assumption Parish,Louisiana,11.1,0.3935
+22019,Calcasieu Parish,Louisiana,11.1,0.7829
+22075,Plaquemines Parish,Louisiana,11.1,0.6504
+28063,Jefferson County,Mississippi,11.1,0.9962
+35025,Lea County,New Mexico,11.1,0.9382
+36035,Fulton County,New York,11.1,0.4801
+37161,Rutherford County,North Carolina,11.1,0.497
+39113,Montgomery County,Ohio,11.1,0.6422
+39117,Morrow County,Ohio,11.1,0.3569
+39147,Seneca County,Ohio,11.1,0.389
+40137,Stephens County,Oklahoma,11.1,0.2139
+47029,Cocke County,Tennessee,11.1,0.2127
+48245,Jefferson County,Texas,11.1,0.8762
+49045,Tooele County,Utah,11.1,0.2006
+51135,Nottoway County,Virginia,11.1,0.9748
+54001,Barbour County,West Virginia,11.1,0.7405
+01035,Conecuh County,Alabama,11.2,0.213
+01073,Jefferson County,Alabama,11.2,0.6211
+01087,Macon County,Alabama,11.2,0.915
+01127,Walker County,Alabama,11.2,0.4492
+01129,Washington County,Alabama,11.2,0.2566
+01131,Wilcox County,Alabama,11.2,0.6176
+12077,Liberty County,Florida,11.2,0.7507
+12133,Washington County,Florida,11.2,0.8548
+13131,Grady County,Georgia,11.2,0.5234
+13191,Mcintosh County,Georgia,11.2,0.2085
+18133,Putnam County,Indiana,11.2,0.7186
+19175,Union County,Iowa,11.2,0.377
+21025,Breathitt County,Kentucky,11.2,0.9249
+21145,Mccracken County,Kentucky,11.2,0.5473
+21199,Pulaski County,Kentucky,11.2,0.5189
+21231,Wayne County,Kentucky,11.2,0.7472
+22105,Tangipahoa Parish,Louisiana,11.2,0.717
+22109,Terrebonne Parish,Louisiana,11.2,0.8507
+28081,Lee County,Mississippi,11.2,0.7663
+29133,Mississippi County,Missouri,11.2,0.8746
+39061,Hamilton County,Ohio,11.2,0.6988
+40091,Mcintosh County,Oklahoma,11.2,0.582
+40097,Mayes County,Oklahoma,11.2,0.6135
+45083,Spartanburg County,South Carolina,11.2,0.8513
+46007,Bennett County,South Dakota,11.2,0.2146
+48141,El Paso County,Texas,11.2,0.859
+48355,Nueces County,Texas,11.2,0.8742
+48361,Orange County,Texas,11.2,0.6078
+51139,Page County,Virginia,11.2,0.1264
+01083,Limestone County,Alabama,11.3,0.4521
+06047,Merced County,California,11.3,0.8274
+13089,Dekalb County,Georgia,11.3,0.7208
+18069,Huntington County,Indiana,11.3,0.2512
+18097,Marion County,Indiana,11.3,0.6839
+21043,Carter County,Kentucky,11.3,0.7991
+21111,Jefferson County,Kentucky,11.3,0.7128
+22055,Lafayette Parish,Louisiana,11.3,0.8376
+23003,Aroostook County,Maine,11.3,0.7542
+28079,Leake County,Mississippi,11.3,0.922
+40015,Caddo County,Oklahoma,11.3,0.8357
+40019,Carter County,Oklahoma,11.3,0.7335
+40021,Cherokee County,Oklahoma,11.3,0.9761
+46071,Jackson County,South Dakota,11.3,0.9981
+48349,Navarro County,Texas,11.3,0.8822
+51031,Campbell County,Virginia,11.3,0.1913
+51169,Scott County,Virginia,11.3,0.8262
+05123,St. Francis County,Arkansas,11.4,0.9908
+12125,Union County,Florida,11.4,0.8634
+13077,Coweta County,Georgia,11.4,0.1219
+13115,Floyd County,Georgia,11.4,0.9389
+22027,Claiborne Parish,Louisiana,11.4,0.9624
+22097,St. Landry Parish,Louisiana,11.4,0.8418
+24045,Wicomico County,Maryland,11.4,0.9421
+26025,Calhoun County,Michigan,11.4,0.7214
+28109,Pearl River County,Mississippi,11.4,0.5154
+28135,Tallahatchie County,Mississippi,11.4,0.9548
+35015,Eddy County,New Mexico,11.4,0.6297
+36033,Franklin County,New York,11.4,0.8908
+37015,Bertie County,North Carolina,11.4,0.923
+37051,Cumberland County,North Carolina,11.4,0.8567
+37163,Sampson County,North Carolina,11.4,0.7902
+39013,Belmont County,Ohio,11.4,0.5651
+39167,Washington County,Ohio,11.4,0.5591
+45081,Saluda County,South Carolina,11.4,0.4368
+47011,Bradley County,Tennessee,11.4,0.687
+47063,Hamblen County,Tennessee,11.4,0.4986
+48347,Nacogdoches County,Texas,11.4,0.999
+48387,Red River County,Texas,11.4,0.2983
+51083,Halifax County,Virginia,11.4,0.5969
+04017,Navajo County,Arizona,11.5,0.9618
+05115,Pope County,Arkansas,11.5,0.7437
+12003,Baker County,Florida,11.5,0.6597
+12051,Hendry County,Florida,11.5,0.9892
+12083,Marion County,Florida,11.5,0.6281
+13153,Houston County,Georgia,11.5,0.4031
+21011,Bath County,Kentucky,11.5,0.4699
+21235,Whitley County,Kentucky,11.5,0.8946
+26121,Muskegon County,Michigan,11.5,0.788
+28061,Jasper County,Mississippi,11.5,0.3451
+35045,San Juan County,New Mexico,11.5,0.7857
+36065,Oneida County,New York,11.5,0.8679
+37057,Davidson County,North Carolina,11.5,0.5024
+37153,Richmond County,North Carolina,11.5,0.9102
+45085,Sumter County,South Carolina,11.5,0.9624
+51001,Accomack County,Virginia,11.5,0.7682
+51009,Amherst County,Virginia,11.5,0.3763
+51089,Henry County,Virginia,11.5,0.7956
+51800,Suffolk City,Virginia,11.5,0.255
+54009,Brooke County,West Virginia,11.5,0.7246
+54103,Wetzel County,West Virginia,11.5,0.2413
+01099,Monroe County,Alabama,11.6,0.3728
+02188,Northwest Arctic Borough,Alaska,11.6,0.9656
+05133,Sevier County,Arkansas,11.6,0.3432
+13151,Henry County,Georgia,11.6,0.0474
+18023,Clinton County,Indiana,11.6,0.453
+18145,Shelby County,Indiana,11.6,0.1929
+22033,East Baton Rouge Parish,Louisiana,11.6,0.7593
+22051,Jefferson Parish,Louisiana,11.6,0.461
+22057,Lafourche Parish,Louisiana,11.6,0.6727
+34007,Camden County,New Jersey,11.6,0.6301
+36009,Cattaraugus County,New York,11.6,0.8968
+37083,Halifax County,North Carolina,11.6,0.8918
+40023,Choctaw County,Oklahoma,11.6,0.8243
+42101,Philadelphia County,Pennsylvania,11.6,0.8949
+45055,Kershaw County,South Carolina,11.6,0.071
+54049,Marion County,West Virginia,11.6,0.6336
+01045,Dale County,Alabama,11.7,0.455
+01119,Sumter County,Alabama,11.7,0.9866
+04021,Pinal County,Arizona,11.7,0.8271
+05111,Poinsett County,Arkansas,11.7,0.5785
+13271,Telfair County,Georgia,11.7,0.8672
+18021,Clay County,Indiana,11.7,0.2477
+18089,Lake County,Indiana,11.7,0.504
+20061,Geary County,Kansas,11.7,0.7408
+21009,Barren County,Kentucky,11.7,0.5164
+21019,Boyd County,Kentucky,11.7,0.7657
+21033,Caldwell County,Kentucky,11.7,0.5138
+21115,Johnson County,Kentucky,11.7,0.9459
+21159,Martin County,Kentucky,11.7,0.9799
+21193,Perry County,Kentucky,11.7,0.9831
+22069,Natchitoches Parish,Louisiana,11.7,0.8147
+22101,St. Mary Parish,Louisiana,11.7,0.7908
+28001,Adams County,Mississippi,11.7,0.9742
+28049,Hinds County,Mississippi,11.7,0.872
+28127,Simpson County,Mississippi,11.7,0.8437
+29021,Buchanan County,Missouri,11.7,0.8571
+39001,Adams County,Ohio,11.7,0.595
+39071,Highland County,Ohio,11.7,0.4932
+45057,Lancaster County,South Carolina,11.7,0.3216
+51710,Norfolk City,Virginia,11.7,0.9411
+54023,Grant County,West Virginia,11.7,0.2213
+01075,Lamar County,Alabama,11.8,0.3251
+01085,Lowndes County,Alabama,11.8,0.4954
+01125,Tuscaloosa County,Alabama,11.8,0.809
+12075,Levy County,Florida,11.8,0.469
+22115,Vernon Parish,Louisiana,11.8,0.6476
+28013,Calhoun County,Mississippi,11.8,0.7727
+28057,Itawamba County,Mississippi,11.8,0.4562
+28059,Jackson County,Mississippi,11.8,0.1433
+37165,Scotland County,North Carolina,11.8,0.9965
+47019,Carter County,Tennessee,11.8,0.5871
+48061,Cameron County,Texas,11.8,0.8596
+01039,Covington County,Alabama,11.9,0.4702
+01097,Mobile County,Alabama,11.9,0.723
+05069,Jefferson County,Arkansas,11.9,0.9812
+05145,White County,Arkansas,11.9,0.8523
+13045,Carroll County,Georgia,11.9,0.6272
+22017,Caddo Parish,Louisiana,11.9,0.8103
+29091,Howell County,Missouri,11.9,0.6909
+29510,St. Louis City,Missouri,11.9,0.7985
+36073,Orleans County,New York,11.9,0.8539
+39093,Lorain County,Ohio,11.9,0.4451
+39099,Mahoning County,Ohio,11.9,0.4422
+40101,Muskogee County,Oklahoma,11.9,0.9529
+47075,Haywood County,Tennessee,11.9,0.6498
+48215,Hidalgo County,Texas,11.9,0.8284
+54035,Jackson County,West Virginia,11.9,0.2821
+01017,Chambers County,Alabama,12,0.7943
+12047,Hamilton County,Florida,12,0.9857
+12079,Madison County,Florida,12,0.9971
+13069,Coffee County,Georgia,12,0.9462
+18091,Laporte County,Indiana,12,0.9051
+20139,Osage County,Kansas,12,0.1216
+24043,Washington County,Maryland,12,0.8007
+29143,New Madrid County,Missouri,12,0.5934
+29155,Pemiscot County,Missouri,12,0.6199
+37127,Nash County,North Carolina,12,0.8688
+01051,Elmore County,Alabama,12.1,0.5177
+01063,Greene County,Alabama,12.1,0.9554
+12059,Holmes County,Florida,12.1,0.9124
+28025,Clay County,Mississippi,12.1,0.2375
+28139,Tippah County,Mississippi,12.1,0.6068
+37085,Harnett County,North Carolina,12.1,0.5982
+39131,Pike County,Ohio,12.1,0.7822
+40125,Pottawatomie County,Oklahoma,12.1,0.7826
+45001,Abbeville County,South Carolina,12.1,0.6835
+46017,Buffalo County,South Dakota,12.1,0.8835
+47053,Gibson County,Tennessee,12.1,0.3884
+47131,Obion County,Tennessee,12.1,0.4253
+13063,Clayton County,Georgia,12.2,0.7746
+13295,Walker County,Georgia,12.2,0.4989
+13313,Whitfield County,Georgia,12.2,0.8577
+21029,Bullitt County,Kentucky,12.2,0.064
+28043,Grenada County,Mississippi,12.2,0.6008
+37027,Caldwell County,North Carolina,12.2,0.3693
+45071,Newberry County,South Carolina,12.2,0.9236
+01033,Colbert County,Alabama,12.3,0.1025
+04001,Apache County,Arizona,12.3,0.9118
+12031,Duval County,Florida,12.3,0.8281
+12049,Hardee County,Florida,12.3,0.9949
+22073,Ouachita Parish,Louisiana,12.3,0.9516
+28033,Desoto County,Mississippi,12.3,0.1414
+28147,Walthall County,Mississippi,12.3,0.4403
+30005,Blaine County,Montana,12.3,0.9153
+40145,Wagoner County,Oklahoma,12.3,0.249
+45039,Fairfield County,South Carolina,12.3,0.4581
+45043,Georgetown County,South Carolina,12.3,0.4982
+45053,Jasper County,South Carolina,12.3,0.9226
+54033,Harrison County,West Virginia,12.3,0.5425
+10001,Kent County,Delaware,12.4,0.8373
+12023,Columbia County,Florida,12.4,0.9726
+24510,Baltimore City,Maryland,12.4,0.873
+28011,Bolivar County,Mississippi,12.4,0.8386
+28019,Choctaw County,Mississippi,12.4,0.8074
+28051,Holmes County,Mississippi,12.4,0.9729
+28085,Lincoln County,Mississippi,12.4,0.6033
+29069,Dunklin County,Missouri,12.4,0.6316
+39145,Scioto County,Ohio,12.4,0.9436
+40031,Comanche County,Oklahoma,12.4,0.9163
+45007,Anderson County,South Carolina,12.4,0.7049
+45061,Lee County,South Carolina,12.4,0.9771
+47125,Montgomery County,Tennessee,12.4,0.3174
+51740,Portsmouth City,Virginia,12.4,0.7469
+24033,Prince George&#39;s County,Maryland,12.5,0.8641
+35006,Cibola County,New Mexico,12.5,0.9959
+39141,Ross County,Ohio,12.5,0.8446
+45009,Bamberg County,South Carolina,12.5,0.986
+47077,Henderson County,Tennessee,12.5,0.4308
+13095,Dougherty County,Georgia,12.6,0.9204
+18177,Wayne County,Indiana,12.6,0.6915
+24011,Caroline County,Maryland,12.6,0.2786
+28029,Copiah County,Mississippi,12.6,0.8736
+28083,Leflore County,Mississippi,12.6,0.9376
+45029,Colleton County,South Carolina,12.6,0.4473
+45049,Hampton County,South Carolina,12.6,0.5903
+47059,Greene County,Tennessee,12.6,0.4282
+48005,Angelina County,Texas,12.6,0.9452
+54039,Kanawha County,West Virginia,12.6,0.6648
+05035,Crittenden County,Arkansas,12.7,0.8504
+28099,Neshoba County,Mississippi,12.7,0.8316
+39053,Gallia County,Ohio,12.7,0.7794
+47113,Madison County,Tennessee,12.7,0.7017
+51650,Hampton City,Virginia,12.7,0.8061
+01091,Marengo County,Alabama,12.8,0.4088
+18053,Grant County,Indiana,12.8,0.6673
+21125,Laurel County,Kentucky,12.8,0.7447
+24039,Somerset County,Maryland,12.8,0.9395
+28107,Panola County,Mississippi,12.8,0.5489
+30003,Big Horn County,Montana,12.8,0.4862
+34033,Salem County,New Jersey,12.8,0.5922
+36005,Bronx County,New York,12.8,0.9704
+45015,Berkeley County,South Carolina,12.8,0.5107
+47097,Lauderdale County,Tennessee,12.8,0.9465
+54077,Preston County,West Virginia,12.8,0.5976
+01015,Calhoun County,Alabama,12.9,0.6492
+13215,Muscogee County,Georgia,12.9,0.8596
+21153,Magoffin County,Kentucky,12.9,0.8879
+28113,Pike County,Mississippi,12.9,0.9659
+39105,Meigs County,Ohio,12.9,0.6772
+12013,Calhoun County,Florida,13,0.9026
+45031,Darlington County,South Carolina,13,0.8341
+54055,Mercer County,West Virginia,13,0.7077
+28095,Monroe County,Mississippi,13.1,0.3524
+37091,Hertford County,North Carolina,13.1,0.9828
+37155,Robeson County,North Carolina,13.1,0.9698
+45067,Marion County,South Carolina,13.1,0.5014
+13175,Laurens County,Georgia,13.2,0.7622
+20209,Wyandotte County,Kansas,13.2,0.6686
+28087,Lowndes County,Mississippi,13.2,0.6562
+29207,Stoddard County,Missouri,13.2,0.2445
+37191,Wayne County,North Carolina,13.2,0.9427
+45023,Chester County,South Carolina,13.2,0.3805
+45033,Dillon County,South Carolina,13.2,0.7851
+51195,Wise County,Virginia,13.2,0.9325
+24019,Dorchester County,Maryland,13.3,0.5228
+28027,Coahoma County,Mississippi,13.3,0.8188
+28067,Jones County,Mississippi,13.3,0.766
+28161,Yalobusha County,Mississippi,13.3,0.7689
+51700,Newport News City,Virginia,13.3,0.9507
+01105,Perry County,Alabama,13.4,0.994
+12043,Glades County,Florida,13.4,0.738
+12107,Putnam County,Florida,13.4,0.9064
+21195,Pike County,Kentucky,13.4,0.8408
+54107,Wood County,West Virginia,13.4,0.4085
+01005,Barbour County,Alabama,13.5,0.9889
+01053,Escambia County,Alabama,13.5,0.5839
+22079,Rapides Parish,Louisiana,13.5,0.9335
+30035,Glacier County,Montana,13.5,0.9596
+38085,Sioux County,North Dakota,13.5,0.7673
+45005,Allendale County,South Carolina,13.5,0.9978
+45011,Barnwell County,South Carolina,13.5,0.9758
+45041,Florence County,South Carolina,13.5,0.9344
+54081,Raleigh County,West Virginia,13.5,0.7074
+54099,Wayne County,West Virginia,13.5,0.4078
+05027,Columbia County,Arkansas,13.6,0.9538
+05107,Phillips County,Arkansas,13.6,0.362
+13261,Sumter County,Georgia,13.6,0.979
+30085,Roosevelt County,Montana,13.6,0.9131
+31173,Thurston County,Nebraska,13.6,0.6377
+21047,Christian County,Kentucky,13.7,0.9306
+21107,Hopkins County,Kentucky,13.7,0.433
+28153,Wayne County,Mississippi,13.7,0.6336
+48485,Wichita County,Texas,13.7,0.8883
+01031,Coffee County,Alabama,13.8,0.1923
+01047,Dallas County,Alabama,13.8,0.8392
+01055,Etowah County,Alabama,13.8,0.2904
+13245,Richmond County,Georgia,13.8,0.9261
+21101,Henderson County,Kentucky,13.8,0.7714
+45059,Laurens County,South Carolina,13.8,0.8704
+12063,Jackson County,Florida,13.9,0.9784
+18095,Madison County,Indiana,13.9,0.5877
+28159,Winston County,Mississippi,13.9,0.7861
+39087,Lawrence County,Ohio,13.9,0.341
+54019,Fayette County,West Virginia,13.9,0.7584
+13021,Bibb County,Georgia,14,0.865
+13217,Newton County,Georgia,14,0.2792
+45075,Orangeburg County,South Carolina,14,0.865
+51730,Petersburg City,Virginia,14,0.8898
+01121,Talladega County,Alabama,14.1,0.7985
+54045,Logan County,West Virginia,14.1,0.7217
+01069,Houston County,Alabama,14.2,0.3502
+01101,Montgomery County,Alabama,14.2,0.7463
+21095,Harlan County,Kentucky,14.2,0.8873
+21119,Knott County,Kentucky,14.2,0.9876
+28151,Washington County,Mississippi,14.2,0.7883
+38079,Rolette County,North Dakota,14.2,0.8997
+45069,Marlboro County,South Carolina,14.2,0.9847
+46031,Corson County,South Dakota,14.2,0.5931
+54059,Mingo County,West Virginia,14.2,0.6457
+01025,Clarke County,Alabama,14.3,0.7345
+39079,Jackson County,Ohio,14.3,0.6578
+45025,Chesterfield County,South Carolina,14.3,0.866
+01021,Chilton County,Alabama,14.4,0.3636
+13185,Lowndes County,Georgia,14.4,0.9398
+28123,Scott County,Mississippi,14.4,0.7711
+21071,Floyd County,Kentucky,14.8,0.9048
+05093,Mississippi County,Arkansas,14.9,0.7574
+22117,Washington Parish,Louisiana,15.1,0.964
+46041,Dewey County,South Dakota,15.3,0.8975
+21133,Letcher County,Kentucky,15.4,0.8131
+28133,Sunflower County,Mississippi,15.7,0.9328
+54005,Boone County,West Virginia,15.7,0.5638
+35031,Mckinley County,New Mexico,15.9,0.8338
+46121,Todd County,South Dakota,15.9,0.9472
+46137,Ziebach County,South Dakota,15.9,0.971
+12039,Gadsden County,Florida,16.1,0.9841
+45089,Williamsburg County,South Carolina,17.2,0.9717
+46102,Oglala Lakota County,South Dakota,17.9,0.9882
+US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
